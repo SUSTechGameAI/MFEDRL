@@ -37,17 +37,16 @@ def get_gan_train_data():
     return data
 
 def set_parser(parser):
-    parser.add_argument('--batch_size', type=int, default=128, help='input batch size')
-    parser.add_argument('--niter', type=int, default=2000, help='number of epochs to train for')
-    parser.add_argument('--eval_itv', type=int, default=10, help='')
-    parser.add_argument('--repeatG', type=int, default=5, help='repeatly train G for how many time for each iteration')
-    parser.add_argument('--repeatD', type=int, default=1, help='repeatly train D for how many time for each iteration')
-    parser.add_argument('--lrD', type=float, default=3e-4, help='learning rate for Critic, default=3e-4')
-    parser.add_argument('--lrG', type=float, default=3e-4, help='learning rate for Generator, default=3e-4')
-    parser.add_argument('--lrV', type=float, default=3e-4, help='learning rate for Generator, default=3e-4')
-    parser.add_argument('--gpuid', type=int, default=-1, help='id of gpu. If smaller than 0, use cpu')
-    parser.add_argument('--res_path', type=str, default='gan', help='')
-    parser.add_argument('--weight_clip', type=float, default=0.01, help='')
+    parser.add_argument('--batch_size', type=int, default=128, help='Input batch size')
+    parser.add_argument('--niter', type=int, default=2000, help='Number of epochs to train for')
+    parser.add_argument('--eval_itv', type=int, default=10, help='Interval (in unit of iteration) of evaluate GAN and print log')
+    parser.add_argument('--repeatG', type=int, default=5, help='Repeatly train G for how many time in one iteration')
+    parser.add_argument('--repeatD', type=int, default=1, help='Repeatly train D for how many time in one iteration')
+    parser.add_argument('--lrD', type=float, default=3e-4, help='Learning rate for Discriminator, default=3e-4')
+    parser.add_argument('--lrG', type=float, default=3e-4, help='Learning rate for Generator, default=3e-4')
+    parser.add_argument('--gpuid', type=int, default=-1, help='ID of gpu. If smaller than 0, use cpu')
+    parser.add_argument('--res_path', type=str, default='GAN', help='Path related to \'/exp_data\' to store training data')
+    parser.add_argument('--weight_clip', type=float, default=0.01, help='Clip the weight of discriminators within [-weight_clip, weight_clip]')
 
 def train_gan(cfgs):
     device = 'cpu' if cfgs.gpuid < 0 else f'cuda:{cfgs.gpuid}'

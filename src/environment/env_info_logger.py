@@ -5,17 +5,6 @@
 """
 
 import json
-from abc import abstractmethod
-
-
-# class EnvLogger:
-#     @abstractmethod
-#     def on_step(self, **kwargs):
-#         pass
-#
-#     @abstractmethod
-#     def close(self):
-#         pass
 import numpy as np
 
 
@@ -76,60 +65,3 @@ class InfoCollector:
     def close(self):
         with open(self.path, 'w') as f:
             json.dump(self.data, f)
-
-
-# class InfoMaker:
-#     def __init__(self, name=None):
-#         self.name = self.__class__.__name__ if not name else name
-#         self.content = None
-#
-#     @abstractmethod
-#     def on_step(self, **kwargs):
-#         pass
-#
-#     def on_reset(self):
-#         self.content = None
-#
-#     def reset(self):
-#         c = self.content
-#         del self.content
-#         self.on_reset()
-#         return self.name, c
-#
-#
-# class DivSeqInfoMaker(InfoMaker):
-#     def __init__(self, m=10, n=10):
-#         assert m >= n
-#         super(DivSeqInfoMaker, self).__init__('DivSeq')
-#         self.content = {}
-#         self.m = m
-#         self.n = n
-#         # self.count = 0
-#
-#     def on_step(self, **kwargs):
-#         t = kwargs['t'] # t start from 1
-#         archive = kwargs['archive']
-#         seg = kwargs['seg']
-#         if archive.capacity < self.n:
-#             raise RuntimeError('Archive capacity (%d) must be lager than n (%d)' % (archive.capacity, self.n))
-#         if t > self.m:
-#             self.content[f't={t}'] = []
-#
-#     def on_reset(self):
-#         self.content = {}
-
-# class DivSeqLogger(EnvLogger):
-#     save_itv = 1000
-#
-#     def __init__(self, path, n=10):
-#         self.data = []
-#         self.path = path
-#         self.n = n
-#         self.times_before_save = TrainingLogger.save_itv
-#
-#     def on_step(self, **kwargs):
-#
-#         pass
-#
-#     def close(self):
-#         pass

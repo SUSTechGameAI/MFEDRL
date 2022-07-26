@@ -4,7 +4,6 @@
   @File : orilvl_statistics.py
 """
 
-import glob
 import json
 from itertools import product
 
@@ -15,7 +14,7 @@ import numpy as np
 
 from src.utils.filesys import get_path
 from smb import MarioLevel, MarioProxy, traverse_level_files
-from src.level_divs import ContentDivergenceMetrics, trace_div
+from src.level_divs import trace_div, tile_pattern_js_div
 
 
 def test_traces(agent=None, save_path='./', save_fname='traces.json'):
@@ -47,12 +46,10 @@ def test_content_divs(metric, delta=1, save_path='./', save_name='content_div.js
 def test_behaviour_divs(trace_files, delta=1, save_path='./', save_name=None):
     W = MarioLevel.default_seg_width
     ts = MarioLevel.tex_size
-    # results = []
     results = {}
     with open(get_path(trace_files), 'r') as f:
         data = json.load(f)
     for name, trace in data.items():
-        # results.append({'name': name, 'divs': []})
         results[name] = []
         end = ceil(trace[-1][0] / ts) + 1
         trace.append([float('inf'), 0])
@@ -66,11 +63,9 @@ def test_behaviour_divs(trace_files, delta=1, save_path='./', save_name=None):
             while trace[j][0] < e * ts:
                 j += 1
             trace_slices.append([[item[0] - s * ts, item[1]] for item in trace[i: j-1]])
-            # print(*('(%.1f, %.1f)' % tuple(item) for item in trace_slices[-1]), sep=', ')
         # compute behavior divergences
         for i in range(0, len(trace_slices) - W * delta):
             j = i + W * delta
-            # print(len(trace_slices[i]), len(trace_slices[j]))
             results[name].append(trace_div(trace_slices[i], trace_slices[j]))
     if save_name is None:
         save_name = 'behaviour_divs.json'
@@ -115,39 +110,6 @@ def viz_divs(names, deltas, data, minmax=(None, None), value_text=True, title=''
 
 
 if __name__ == '__main__':
-    # test_traces(save_fname='traces_runner.json')
-    # for d in range(1, 5):
-        # test_content_divs(
-        #     ContentDivergenceMetrics.TilePttrJS2.get_func(), d,
-        #     f'exp_data/original_level_statics', f'content_JS2_delta{d}.json'
-        # )
-        # test_behaviour_divs(
-        #     'exp_data/orilvl_statistics/intermediate/traces_runner.json', d,
-        #     f'exp_data/orilvl_statistics/intermediate', f'runner_div_delta{d}.json'
-        # )
-
-    # div_means = [[] for _ in range(4)]
-    # div_stds = [[] for _ in range(4)]
-    # names = [name for _, name in traverse_level_files()]
-    # for delta in range(1, 5):
-    #     with open(get_path(f'exp_data/orilvl_statistics/intermediate/content_JS2_delta{delta}.json'), 'r') as f:
-    #         raw_data = json.load(f)
-    #     for name in names:
-    #         div_vals = np.array(raw_data[name])
-    #         div_means[delta - 1].append(div_vals.mean())
-    #         div_stds[delta - 1].append(div_vals.std())
-    # viz_divs(names, list(range(1, 5)), div_means, title='Mean value of content JS2 dissimilarity')
-    # viz_divs(names, list(range(1, 5)), div_stds, title='Standard derivation of content JS2 dissimilarity')
-
-    # content_div_files = [f'exp_data/orilvl_statistics/intermediate/content_JS2_delta{d}.json' for d in range(1, 5)]
-    # runner_div_files = [f'exp_data/orilvl_statistics/intermediate/runner_div_delta{d}.json' for d in range(1, 5)]
-    # croef_list = test_metric_correlation(content_div_files, runner_div_files)
-    # print(croef_list)
-    # with open(get_path(f'exp_data/orilvl_statistics/div_croef-content_runner.json'), 'w') as f:
-    #     json.dump(croef_list, f)
-
-    # c_divs = [[] for _ in range(4)]
-    # b_divs = [[] for _ in range(4)]
     plt.figure(dpi=200)
     names = [name for _, name in traverse_level_files()]
     for delta in range(1, 5):

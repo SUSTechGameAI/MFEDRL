@@ -19,44 +19,43 @@ from src.environment.env_cfgs import history_len
 def set_parser(parser):
     parser.add_argument(
         '--n_envs', type=int, default=5,
-        help='Number of parallel environments.'
+        help='Number of parallel environments'
     )
     parser.add_argument(
         '--eplen', type=int, default=25,
-        help='Maximum nubmer of segments to generate in the generation enviroment.'
+        help='Maximum nubmer of segments to generate in one episode'
     )
     parser.add_argument(
         '--total_steps', type=int, default=int(1e5),
-        help='Total time steps (frames) for training PPO designer.'
+        help='Total time steps (frames) for training SAC designer'
     )
-    parser.add_argument('--gamma', type=float, default=0.7)
-    parser.add_argument('--tar_entropy', type=float, default=-nz)
-    parser.add_argument('--tau', type=float, default=0.005)
-    parser.add_argument('--update_freq', type=int, default=10)
-    parser.add_argument('--batch_size', type=int, default=384)
-    parser.add_argument('--mem_size', type=int, default=int(5e5))
+    parser.add_argument('--gamma', type=float, default=0.7, help='Gamma parameter of RL')
+    parser.add_argument('--tar_entropy', type=float, default=-nz, help='Target entropy of SAC')
+    parser.add_argument('--tau', type=float, default=0.005, help='Tau parameter of SAC')
+    parser.add_argument('--update_freq', type=int, default=10, help='Interval of updating SAC model')
+    parser.add_argument('--batch_size', type=int, default=384, help='Batch size of training SAC model')
+    parser.add_argument('--mem_size', type=int, default=int(5e5), help='Capacity of replay memory for SAC training')
     parser.add_argument(
         '--device', type=str, default='cuda:0',
-        help='Device for training the DDPG agent.'
+        help='Device for training the SAC model'
     )
     parser.add_argument(
         '--rfunc_name', type=str, default='default',
         help='Name of the file where the reward function located. '
-             'The file must be put in the \'src.reward_functions\' package.'
+             'The file must be put in the \'src.rfuncs\' package'
     )
     parser.add_argument(
         '--res_path', type=str, default='',
-        help='Path relateed to \'/exp_data\'to save the training log. '
-             'If not specified, a new folder named exp{id} will be created.'
+        help='Path related to \'/exp_data\' to save the training log. '
+             'If not specified, a new folder named exp{id} will be created'
     )
     parser.add_argument(
         '--play_style', type=str, default='Runner',
-        help='Path relateed to \'/exp_data\'to save the training log. '
-             'If not specified, a new folder named exp{id} will be created.'
+        help='Play style (persona) of agent, \'Runner\', \'Killer\' and \'Collector\' are valid'
     )
     parser.add_argument(
         '--check_points', type=int, nargs='+',
-        help='check points to save deisigner, specified by the number of time steps.'
+        help='Check points to save deisigner, specified by the number of time steps'
     )
 
 def train_designer(cfgs):

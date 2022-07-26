@@ -20,81 +20,6 @@ from src.environment.env_cfgs import history_len
 from src.gan.gan_use import *
 from smb import *
 
-#
-# class GenerationEnv(gym.Env):
-#     def __init__(self, rfunc=None, max_seg_num=100, archive_len=10):
-#         self.rfunc = deepcopy(rfunc)
-#         self.mario_proxy = MarioProxy()
-#         self.action_space = gym.spaces.Box(-1, 1, (nz,))
-#         self.observation_space = gym.spaces.Box(-1, 1, (archive_len * nz,))
-#         self.simlt_buffer = RingQueue(2)
-#         self.level_archive = RingQueue(archive_len)
-#         self.latvec_archive = RingQueue(archive_len)
-#         self.max_seg_num = max_seg_num
-#         self.archive_len = archive_len
-#         self.counter = 0
-#         self.score = 0
-#         self.repairer = Repairer()
-#
-#         self.onehot_seg = None
-#         self.backup_latvec = None
-#         self.backup_onehot_seg = None
-#
-#     def receive(self, **kwargs):
-#         for key in kwargs.keys():
-#             setattr(self, key, kwargs[key])
-#
-#     def step(self, action: np.ndarray):
-#         seg = MarioLevel.from_one_hot_arr(self.onehot_seg)
-#         self.latvec_archive.push(action)
-#
-#         self.counter += 1
-#         self.simlt_buffer.push(seg)
-#         if self.rfunc and self.rfunc.require_simlt:
-#             simlt_res = self.__playable_test()
-#         else:
-#             simlt_res = None
-#
-#         archive = None if not len(self.level_archive) else self.level_archive.to_list()
-#         reward = 0 if not self.rfunc else self.rfunc(archive=archive, seg=seg, simlt_res=simlt_res)
-#
-#         done = self.counter >= self.max_seg_num
-#         self.score += reward
-#
-#         obs = self.__get_obs()
-#         if done:
-#             info = self.rfunc.reset()
-#             info['TotalScore'] = self.score
-#             info['EpLength'] = self.counter
-#             # info['whole_level'] =
-#         else:
-#             info = {}
-#         self.level_archive.push(seg)
-#         return obs, reward, done, info
-#
-#     def __playable_test(self):
-#         test_seg = level_sum(self.simlt_buffer.to_list())
-#         return self.mario_proxy.simulate_game(test_seg)
-#
-#     def reset(self):
-#         self.simlt_buffer.clear()
-#         self.level_archive.clear()
-#         self.latvec_archive.clear()
-#         self.latvec_archive.push(self.backup_latvec)
-#         self.level_archive.push(MarioLevel.from_one_hot_arr(self.backup_onehot_seg))
-#         self.backup_latvec, self.backup_onehot_seg = None, None
-#         self.score = 0
-#         self.counter = 0
-#         return self.__get_obs()
-#
-#     def __get_obs(self):
-#         lack = self.archive_len - len(self.latvec_archive)
-#         pad = [np.zeros([nz], np.float32) for _ in range(lack)]
-#         return np.concatenate([*pad, *self.latvec_archive.to_list()])
-#
-#     def render(self, mode='human'):
-#         pass
-
 
 class OffRewardGenerationEnv(gym.Env):
     def __init__(self, rfunc=None, hist_len=history_len, eplen=25, return_lvl=False, init_one=False, play_style='Runner'):
@@ -236,10 +161,7 @@ class VecGenerationEnv(SubprocVecEnv):
         if env_ids is None:
             env_ids = [*range(self.num_envs)]
         target_remotes = self._get_target_remotes(env_ids)
-        # latvecs = [
-        #     np.random.rand(len(env_ids), nz).astype(np.float32) * 2 - 1
-        #     for _ in range(history_len)
-        # ]
+
         if self.init_one:
             latvecs = np.random.rand(len(env_ids), nz).astype(np.float32) * 2 - 1
         else:
@@ -289,22 +211,4 @@ def make_vec_offrew_env(
         }
     )
 
-# def make_vec_generation_env(
-#         num_envs, rfunc=None, log_path=None, max_seg_num=100, archive_len=8,
-#         log_itv=-1, device='cuda:0', log_targets=None
-#     ):
-#     return make_vec_env(
-#         GenerationEnv, n_envs=num_envs, vec_env_cls=VecGenerationEnv,
-#         vec_env_kwargs={
-#             'log_path': log_path,
-#             'log_itv': log_itv,
-#             'log_targets': log_targets,
-#             'device': device
-#         },
-#         env_kwargs={
-#             'rfunc': rfunc,
-#             'max_seg_num': max_seg_num,
-#             'archive_len': archive_len,
-#         }
-#     )
-#
+

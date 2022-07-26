@@ -19,7 +19,6 @@ from src.utils.filesys import get_path
 from itertools import product, accumulate
 
 # ! ! This file must be placed at the project root directory ! !
-# from src.gan.gan_config import W
 
 
 class MarioLevel:
@@ -32,9 +31,9 @@ class MarioLevel:
     #     '>': 7, '[': 8, ']': 9, 'o': 10, 'B': 11, 'b': 12}
     # }
     mapping = {
-        'i-c': ('X', 'S', '-', '?', 'Q', 'E', '<', '>', '[', ']', 'o', 'B', 'b'),
+        'i-c': ('X', 'S', '-', '?', 'Q', 'E', '<', '>', '[', ']', 'o'),
         'c-i': {'X': 0, 'S': 1, '-': 2, '?': 3, 'Q': 4, 'E': 5, '<': 6,
-        '>': 7, '[': 8, ']': 9, 'o': 10, 'B': 11, 'b': 12}
+        '>': 7, '[': 8, ']': 9, 'o': 10}
     }
     empty_tiles = {'-', 'E', 'o'}
     num_tile_types = len(mapping['i-c'])
@@ -319,19 +318,7 @@ def traverse_batched_level_files(path):
         yield lvls, name
 
 
-# if __name__ == '__main__':
-#     lvl = MarioLevel.from_file('levels/original/mario-1-2.smblv')
-#     # print(lvl)
-#     # print(MarioLevel(str(lvl)))
-#     proxy = MarioProxy()
-#     # proxy.simulate_game(lvl, MarioJavaAgents.Collector, True)
-#     simlt_res = proxy.simulate_long(lvl, MarioJavaAgents.Runner)
-#     seg_infos = MarioProxy.get_seg_infos(simlt_res)
-#     print(seg_infos[0]['trace'])
-#     simlt_res = proxy.simulate_long(lvl, MarioJavaAgents.Killer)
-#     seg_infos = MarioProxy.get_seg_infos(simlt_res)
-#     print(seg_infos[0]['trace'])
-#     simlt_res = proxy.simulate_long(lvl, MarioJavaAgents.Collector)
-#     seg_infos = MarioProxy.get_seg_infos(simlt_res)
-#     print(seg_infos[0]['trace'])
-#     # print([item['playable'] for item in seg_infos])
+if __name__ == '__main__':
+    lvl = MarioLevel.from_file('levels/original/mario-1-1.smblv')
+    MarioProxy().play_game(lvl)
+

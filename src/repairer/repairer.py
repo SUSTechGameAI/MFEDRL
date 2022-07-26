@@ -46,22 +46,6 @@ class Detector:
             if padded_lvl[i, j] in ppset or any(x in ppset for x in srrd):  # only record combinations near pipes
                 res.append([i, j])
         return np.array(res)
-    #
-    # def get_slt_space(self, padded_lvl, eval_space=None, split=False):
-    #     if eval_space is None:
-    #         eval_space = Detector.get_eval_space(padded_lvl)
-    #
-    #     surroundings, centers = Detector.get_srrds_centers(padded_lvl, eval_space)
-    #     centers = np.array(centers)
-    #     probs = self.get_probs(surroundings, centers)
-    #     if split:
-    #         mid = (self.theta1 + self.theta2) / 2
-    #         span = self.theta2 - self.theta1
-    #         wrong_pos = eval_space[np.where(probs <= self.theta1)]
-    #         uncertain_pos = eval_space[np.where(abs(probs - mid) < span / 2)]
-    #         return wrong_pos, uncertain_pos
-    #     else:
-    #         return eval_space[np.where(probs < self.theta2)]
 
     def get_predictions(self, surroundings):
         x = torch.tensor(surroundings, dtype=torch.long)

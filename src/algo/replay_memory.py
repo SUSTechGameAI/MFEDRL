@@ -19,11 +19,6 @@ class ReplayMem:
     def add(self, o, a, r, op, d):
         self.queue.push((o, a, r, op, d))
 
-    # def add_trajectories(self, *trajs):
-    #     for traj in trajs:
-    #         for t in traj:
-    #             self.queue.push(t)
-
     def add_batched(self, obs, actions, rewards, next_obs, dones):
         for o, a, r, op, d in zip(obs, actions, rewards, next_obs, dones):
             self.add(o, a, r, op, d)

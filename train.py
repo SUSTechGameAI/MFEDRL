@@ -5,7 +5,7 @@
 """
 
 import argparse
-from src.designer import train_designer, train_designer_agsac
+from src.designer import train_designer
 from src.gan import train_gan
 from src.repairer import cnet
 
@@ -15,15 +15,11 @@ if __name__ == '__main__':
     subparsers = parser.add_subparsers()
 
     parser_g = subparsers.add_parser('generator', help='Train GAN generator')
-    parser_d_agsac = subparsers.add_parser('designer_agsac')
     parser_d = subparsers.add_parser('designer')
     parser_cnet = subparsers.add_parser('cnet')
 
     train_gan.set_parser(parser_g)
     parser_g.set_defaults(entry=train_gan.train_gan)
-
-    train_designer_agsac.set_parser(parser_d_agsac)
-    parser_d_agsac.set_defaults(entry=train_designer_agsac.train_designer)
 
     train_designer.set_parser(parser_d)
     parser_d.set_defaults(entry=train_designer.train_designer)

@@ -4,8 +4,6 @@
   @File : rewterms.py 
 """
 
-import numpy as np
-from smb import MarioLevel
 from abc import abstractmethod
 from src.utils.mymath import a_clip
 from src.environment.env_cfgs import history_len
