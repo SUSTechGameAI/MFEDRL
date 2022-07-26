@@ -1,4 +1,4 @@
-# MFEDRL
+# Multifaceted Experience-Driven PCG via Reinforcement Learning (MFEDRL)
 
 This is the code for the paper "The Fun Facets of Mario: Multifaceted Experience-Driven PCG via Reinforcement Learning" accepted by the 13th Workshop on Procedural Content Generation.
 
