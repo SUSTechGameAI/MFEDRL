@@ -14,3 +14,47 @@ Please use this bibtex if you use this repository in your work:
   organization={ACM}
 }
 ````
+### Environments that have been tested
+* Python 3.9.6
+* JPype 1.3.0
+* pygame 2.0.1
+* dtw 1.4.0
+* scipy 1.7.2
+* torch 1.9.0+cu111
+* numpy 1.20.3
+* gym 0.21.0
+### How to use
+#### Training GAN generator:
+Run command line instruction:
+````
+At the root path of this project> python train.py generator
+````
+You can check the running arguments (to specify algorithm parameters) by:
+````
+At the root path of this project> python train.py generator --help
+````
+#### Training CNet:
+Run command line instruction:
+````
+At the root path of this project> python train.py cnet
+````
+You can check the running arguments (to specify algorithm parameters) by:
+````
+At the root path of this project> python train.py cnet --help
+````
+#### Training CNet:
+Run command line instruction:
+````
+At the root path of this project> python train.py designer
+````
+You can check the running arguments (to specify algorithm parameters) by:
+````
+At the root path of this project> python train.py designer --help
+````
+#### Play a level:
+You may modify the path of level file in line 322 of the _smb.py_, and then run _smb.py_ to play any level stored in a Mario-AI-Framework-supported text file.
+* Line 322 of _smb.py_
+````
+    lvl = MarioLevel.from_file(Path of your level file)
+````
+The path can be either related (to project root) or absolute, and the file type won't be checked.
