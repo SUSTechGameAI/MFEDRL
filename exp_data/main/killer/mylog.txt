@@ -1,0 +1,3600 @@
+----------------Total steps: 2500----------------
+Time passed: 325s
+fps: 7.68
+FunBehaviour: -7.10 +- 9.11
+Playability: -18.11 +- 2.99
+FunContent: 11.46 +- 7.16
+EpLength: 25.00 +- 0.00
+TotalScore: -13.75 +- 13.04
+
+----------------Total steps: 5000----------------
+Time passed: 647s
+fps: 7.77
+FunBehaviour: -4.90 +- 7.23
+Playability: -17.72 +- 2.63
+FunContent: 13.57 +- 5.45
+EpLength: 25.00 +- 0.00
+TotalScore: -9.05 +- 10.05
+
+----------------Total steps: 7500----------------
+Time passed: 975s
+fps: 7.62
+FunBehaviour: -5.00 +- 7.76
+Playability: -17.97 +- 2.27
+FunContent: 12.01 +- 6.61
+EpLength: 25.00 +- 0.00
+TotalScore: -10.96 +- 10.48
+
+----------------Total steps: 10000----------------
+Time passed: 1302s
+fps: 7.65
+FunBehaviour: -3.89 +- 7.92
+Playability: -17.48 +- 2.66
+FunContent: 13.32 +- 5.86
+EpLength: 25.00 +- 0.00
+TotalScore: -8.06 +- 10.97
+
+----------------Total steps: 12500----------------
+Time passed: 1627s
+fps: 7.68
+FunBehaviour: -4.11 +- 7.14
+Playability: -17.97 +- 2.54
+FunContent: 13.26 +- 6.70
+EpLength: 25.00 +- 0.00
+TotalScore: -8.82 +- 10.88
+
+----------------Total steps: 15000----------------
+Time passed: 1953s
+fps: 7.66
+FunBehaviour: -3.42 +- 8.26
+Playability: -17.82 +- 2.71
+FunContent: 13.91 +- 6.24
+EpLength: 25.00 +- 0.00
+TotalScore: -7.33 +- 11.95
+
+----------------Total steps: 17500----------------
+Time passed: 2278s
+fps: 7.7
+FunBehaviour: -2.84 +- 6.38
+Playability: -18.20 +- 2.37
+FunContent: 12.95 +- 6.60
+EpLength: 25.00 +- 0.00
+TotalScore: -8.10 +- 10.27
+
+----------------Total steps: 20000----------------
+Time passed: 2609s
+fps: 7.56
+FunBehaviour: -2.45 +- 7.62
+Playability: -17.53 +- 2.31
+FunContent: 14.50 +- 5.82
+EpLength: 25.00 +- 0.00
+TotalScore: -5.48 +- 10.67
+
+----------------Total steps: 22500----------------
+Time passed: 2933s
+fps: 7.71
+FunBehaviour: -4.21 +- 8.80
+Playability: -17.85 +- 2.78
+FunContent: 14.07 +- 6.23
+EpLength: 25.00 +- 0.00
+TotalScore: -7.99 +- 12.19
+
+----------------Total steps: 25000----------------
+Time passed: 3255s
+fps: 7.77
+FunBehaviour: -2.89 +- 7.61
+Playability: -17.20 +- 2.91
+FunContent: 14.54 +- 5.64
+EpLength: 25.00 +- 0.00
+TotalScore: -5.55 +- 10.93
+
+----------------Total steps: 27500----------------
+Time passed: 3578s
+fps: 7.74
+FunBehaviour: -1.61 +- 7.50
+Playability: -17.56 +- 2.27
+FunContent: 13.73 +- 6.30
+EpLength: 25.00 +- 0.00
+TotalScore: -5.44 +- 11.14
+
+----------------Total steps: 30000----------------
+Time passed: 3903s
+fps: 7.7
+FunBehaviour: -2.72 +- 8.04
+Playability: -17.55 +- 2.71
+FunContent: 14.18 +- 5.19
+EpLength: 25.00 +- 0.00
+TotalScore: -6.09 +- 10.05
+
+----------------Total steps: 32500----------------
+Time passed: 4226s
+fps: 7.74
+FunBehaviour: -2.22 +- 7.90
+Playability: -17.07 +- 2.72
+FunContent: 14.19 +- 6.68
+EpLength: 25.00 +- 0.00
+TotalScore: -5.09 +- 10.77
+
+----------------Total steps: 35000----------------
+Time passed: 4550s
+fps: 7.72
+FunBehaviour: -0.25 +- 7.51
+Playability: -17.16 +- 2.59
+FunContent: 15.79 +- 4.64
+EpLength: 25.00 +- 0.00
+TotalScore: -1.61 +- 10.20
+
+----------------Total steps: 37500----------------
+Time passed: 4881s
+fps: 7.55
+FunBehaviour: -0.26 +- 6.91
+Playability: -17.56 +- 2.78
+FunContent: 14.45 +- 5.11
+EpLength: 25.00 +- 0.00
+TotalScore: -3.37 +- 9.99
+
+----------------Total steps: 40000----------------
+Time passed: 5207s
+fps: 7.68
+FunBehaviour: -1.70 +- 6.85
+Playability: -17.19 +- 2.56
+FunContent: 14.29 +- 5.90
+EpLength: 25.00 +- 0.00
+TotalScore: -4.60 +- 11.00
+
+----------------Total steps: 42500----------------
+Time passed: 5531s
+fps: 7.71
+FunBehaviour: -0.78 +- 7.67
+Playability: -16.83 +- 3.10
+FunContent: 14.72 +- 5.38
+EpLength: 25.00 +- 0.00
+TotalScore: -2.89 +- 10.22
+
+----------------Total steps: 45000----------------
+Time passed: 5864s
+fps: 7.52
+FunBehaviour: -1.08 +- 7.15
+Playability: -17.43 +- 2.85
+FunContent: 15.12 +- 5.67
+EpLength: 25.00 +- 0.00
+TotalScore: -3.39 +- 9.80
+
+----------------Total steps: 47500----------------
+Time passed: 6184s
+fps: 7.8
+FunBehaviour: 1.21 +- 7.18
+Playability: -17.03 +- 2.48
+FunContent: 15.53 +- 5.27
+EpLength: 25.00 +- 0.00
+TotalScore: -0.29 +- 9.48
+
+----------------Total steps: 50000----------------
+Time passed: 6512s
+fps: 7.64
+FunBehaviour: 1.54 +- 6.55
+Playability: -17.25 +- 2.68
+FunContent: 15.83 +- 4.78
+EpLength: 25.00 +- 0.00
+TotalScore: 0.12 +- 10.02
+
+----------------Total steps: 52500----------------
+Time passed: 6841s
+fps: 7.6
+FunBehaviour: 0.73 +- 7.45
+Playability: -17.21 +- 2.92
+FunContent: 15.04 +- 5.69
+EpLength: 25.00 +- 0.00
+TotalScore: -1.43 +- 11.61
+
+----------------Total steps: 55000----------------
+Time passed: 7167s
+fps: 7.66
+FunBehaviour: 3.26 +- 5.95
+Playability: -16.37 +- 2.98
+FunContent: 16.62 +- 4.77
+EpLength: 25.00 +- 0.00
+TotalScore: 3.51 +- 8.80
+
+----------------Total steps: 57500----------------
+Time passed: 7498s
+fps: 7.55
+FunBehaviour: 2.59 +- 5.82
+Playability: -16.71 +- 3.01
+FunContent: 15.90 +- 4.94
+EpLength: 25.00 +- 0.00
+TotalScore: 1.78 +- 9.20
+
+----------------Total steps: 60000----------------
+Time passed: 7824s
+fps: 7.67
+FunBehaviour: 0.86 +- 6.57
+Playability: -16.72 +- 2.75
+FunContent: 16.29 +- 4.18
+EpLength: 25.00 +- 0.00
+TotalScore: 0.44 +- 9.12
+
+----------------Total steps: 62500----------------
+Time passed: 8159s
+fps: 7.48
+FunBehaviour: 2.64 +- 7.39
+Playability: -16.98 +- 2.75
+FunContent: 16.58 +- 4.23
+EpLength: 25.00 +- 0.00
+TotalScore: 2.23 +- 9.95
+
+----------------Total steps: 65000----------------
+Time passed: 8487s
+fps: 7.6
+FunBehaviour: 3.62 +- 6.80
+Playability: -16.83 +- 3.08
+FunContent: 17.36 +- 4.97
+EpLength: 25.00 +- 0.00
+TotalScore: 4.15 +- 10.69
+
+----------------Total steps: 67500----------------
+Time passed: 8822s
+fps: 7.46
+FunBehaviour: 3.78 +- 6.45
+Playability: -16.47 +- 2.88
+FunContent: 16.91 +- 4.59
+EpLength: 25.00 +- 0.00
+TotalScore: 4.22 +- 9.34
+
+----------------Total steps: 70000----------------
+Time passed: 9152s
+fps: 7.59
+FunBehaviour: 5.00 +- 6.09
+Playability: -16.42 +- 2.57
+FunContent: 17.73 +- 3.85
+EpLength: 25.00 +- 0.00
+TotalScore: 6.31 +- 8.13
+
+----------------Total steps: 72500----------------
+Time passed: 9486s
+fps: 7.47
+FunBehaviour: 4.42 +- 6.47
+Playability: -17.15 +- 2.59
+FunContent: 17.01 +- 4.73
+EpLength: 25.00 +- 0.00
+TotalScore: 4.28 +- 9.48
+
+----------------Total steps: 75000----------------
+Time passed: 9831s
+fps: 7.25
+FunBehaviour: 5.39 +- 5.42
+Playability: -17.00 +- 2.78
+FunContent: 16.79 +- 5.15
+EpLength: 25.00 +- 0.00
+TotalScore: 5.18 +- 8.91
+
+----------------Total steps: 77500----------------
+Time passed: 10172s
+fps: 7.34
+FunBehaviour: 5.01 +- 6.04
+Playability: -16.90 +- 2.97
+FunContent: 18.03 +- 3.79
+EpLength: 25.00 +- 0.00
+TotalScore: 6.14 +- 8.66
+
+----------------Total steps: 80000----------------
+Time passed: 10506s
+fps: 7.47
+FunBehaviour: 6.43 +- 5.27
+Playability: -16.53 +- 2.86
+FunContent: 17.93 +- 3.55
+EpLength: 25.00 +- 0.00
+TotalScore: 7.83 +- 7.88
+
+----------------Total steps: 82500----------------
+Time passed: 10846s
+fps: 7.36
+FunBehaviour: 6.35 +- 5.72
+Playability: -16.41 +- 2.83
+FunContent: 18.05 +- 3.77
+EpLength: 25.00 +- 0.00
+TotalScore: 7.99 +- 8.89
+
+----------------Total steps: 85000----------------
+Time passed: 11185s
+fps: 7.39
+FunBehaviour: 7.43 +- 5.52
+Playability: -16.51 +- 3.01
+FunContent: 19.50 +- 2.92
+EpLength: 25.00 +- 0.00
+TotalScore: 10.42 +- 7.35
+
+----------------Total steps: 87500----------------
+Time passed: 11532s
+fps: 7.21
+FunBehaviour: 7.86 +- 5.64
+Playability: -16.50 +- 2.88
+FunContent: 18.51 +- 3.34
+EpLength: 25.00 +- 0.00
+TotalScore: 9.87 +- 8.38
+
+----------------Total steps: 90000----------------
+Time passed: 11870s
+fps: 7.39
+FunBehaviour: 8.42 +- 5.49
+Playability: -16.86 +- 2.86
+FunContent: 18.62 +- 3.78
+EpLength: 25.00 +- 0.00
+TotalScore: 10.18 +- 8.04
+
+----------------Total steps: 92500----------------
+Time passed: 12212s
+fps: 7.3
+FunBehaviour: 10.09 +- 4.86
+Playability: -15.94 +- 2.83
+FunContent: 18.80 +- 3.60
+EpLength: 25.00 +- 0.00
+TotalScore: 12.95 +- 7.49
+
+----------------Total steps: 95000----------------
+Time passed: 12545s
+fps: 7.52
+FunBehaviour: 9.34 +- 4.83
+Playability: -15.40 +- 3.02
+FunContent: 18.68 +- 3.81
+EpLength: 25.00 +- 0.00
+TotalScore: 12.62 +- 7.58
+
+----------------Total steps: 97500----------------
+Time passed: 12887s
+fps: 7.31
+FunBehaviour: 8.84 +- 5.16
+Playability: -16.53 +- 2.77
+FunContent: 19.03 +- 3.34
+EpLength: 25.00 +- 0.00
+TotalScore: 11.34 +- 7.03
+
+----------------Total steps: 100000----------------
+Time passed: 13227s
+fps: 7.35
+FunBehaviour: 10.16 +- 4.85
+Playability: -16.14 +- 3.06
+FunContent: 19.77 +- 2.73
+EpLength: 25.00 +- 0.00
+TotalScore: 13.79 +- 6.85
+
+----------------Total steps: 102500----------------
+Time passed: 13565s
+fps: 7.39
+FunBehaviour: 11.01 +- 5.13
+Playability: -15.51 +- 2.97
+FunContent: 18.89 +- 3.55
+EpLength: 25.00 +- 0.00
+TotalScore: 14.39 +- 7.42
+
+----------------Total steps: 105000----------------
+Time passed: 13900s
+fps: 7.47
+FunBehaviour: 10.69 +- 4.71
+Playability: -15.76 +- 3.37
+FunContent: 19.54 +- 3.11
+EpLength: 25.00 +- 0.00
+TotalScore: 14.46 +- 7.66
+
+----------------Total steps: 107500----------------
+Time passed: 14241s
+fps: 7.34
+FunBehaviour: 11.09 +- 4.67
+Playability: -16.10 +- 3.30
+FunContent: 19.95 +- 3.02
+EpLength: 25.00 +- 0.00
+TotalScore: 14.95 +- 7.53
+
+----------------Total steps: 110000----------------
+Time passed: 14580s
+fps: 7.36
+FunBehaviour: 12.16 +- 4.58
+Playability: -15.46 +- 3.31
+FunContent: 20.10 +- 2.49
+EpLength: 25.00 +- 0.00
+TotalScore: 16.80 +- 6.64
+
+----------------Total steps: 112500----------------
+Time passed: 14910s
+fps: 7.57
+FunBehaviour: 13.22 +- 4.09
+Playability: -14.32 +- 3.75
+FunContent: 20.46 +- 2.27
+EpLength: 25.00 +- 0.00
+TotalScore: 19.36 +- 6.79
+
+----------------Total steps: 115000----------------
+Time passed: 15254s
+fps: 7.28
+FunBehaviour: 13.57 +- 4.92
+Playability: -15.26 +- 2.92
+FunContent: 20.02 +- 2.45
+EpLength: 25.00 +- 0.00
+TotalScore: 18.33 +- 7.21
+
+----------------Total steps: 117500----------------
+Time passed: 15591s
+fps: 7.41
+FunBehaviour: 13.93 +- 4.42
+Playability: -13.93 +- 3.42
+FunContent: 20.30 +- 2.38
+EpLength: 25.00 +- 0.00
+TotalScore: 20.29 +- 6.97
+
+----------------Total steps: 120000----------------
+Time passed: 15930s
+fps: 7.39
+FunBehaviour: 14.18 +- 3.91
+Playability: -14.98 +- 3.44
+FunContent: 20.88 +- 1.66
+EpLength: 25.00 +- 0.00
+TotalScore: 20.08 +- 6.41
+
+----------------Total steps: 122500----------------
+Time passed: 16264s
+fps: 7.48
+FunBehaviour: 14.75 +- 3.60
+Playability: -14.63 +- 3.54
+FunContent: 20.55 +- 2.42
+EpLength: 25.00 +- 0.00
+TotalScore: 20.67 +- 6.47
+
+----------------Total steps: 125000----------------
+Time passed: 16593s
+fps: 7.59
+FunBehaviour: 14.25 +- 3.97
+Playability: -13.67 +- 3.33
+FunContent: 20.39 +- 2.80
+EpLength: 25.00 +- 0.00
+TotalScore: 20.97 +- 6.46
+
+----------------Total steps: 127500----------------
+Time passed: 16918s
+fps: 7.69
+FunBehaviour: 14.74 +- 4.52
+Playability: -13.41 +- 2.85
+FunContent: 20.87 +- 1.94
+EpLength: 25.00 +- 0.00
+TotalScore: 22.20 +- 5.99
+
+----------------Total steps: 130000----------------
+Time passed: 17231s
+fps: 7.99
+FunBehaviour: 16.27 +- 3.55
+Playability: -11.75 +- 3.16
+FunContent: 21.31 +- 1.43
+EpLength: 25.00 +- 0.00
+TotalScore: 25.83 +- 5.65
+
+----------------Total steps: 132500----------------
+Time passed: 17554s
+fps: 7.74
+FunBehaviour: 16.17 +- 4.18
+Playability: -12.52 +- 3.57
+FunContent: 21.33 +- 1.27
+EpLength: 25.00 +- 0.00
+TotalScore: 24.98 +- 6.27
+
+----------------Total steps: 135000----------------
+Time passed: 17870s
+fps: 7.92
+FunBehaviour: 17.26 +- 3.44
+Playability: -11.61 +- 3.59
+FunContent: 21.29 +- 1.25
+EpLength: 25.00 +- 0.00
+TotalScore: 26.93 +- 5.65
+
+----------------Total steps: 137500----------------
+Time passed: 18183s
+fps: 7.98
+FunBehaviour: 17.25 +- 3.57
+Playability: -11.07 +- 3.64
+FunContent: 21.39 +- 1.19
+EpLength: 25.00 +- 0.00
+TotalScore: 27.58 +- 6.37
+
+----------------Total steps: 140000----------------
+Time passed: 18495s
+fps: 8.04
+FunBehaviour: 16.54 +- 3.15
+Playability: -9.91 +- 3.56
+FunContent: 20.90 +- 1.70
+EpLength: 25.00 +- 0.00
+TotalScore: 27.52 +- 5.38
+
+----------------Total steps: 142500----------------
+Time passed: 18797s
+fps: 8.27
+FunBehaviour: 17.42 +- 3.41
+Playability: -9.54 +- 3.34
+FunContent: 21.39 +- 1.32
+EpLength: 25.00 +- 0.00
+TotalScore: 29.27 +- 5.39
+
+----------------Total steps: 145000----------------
+Time passed: 19101s
+fps: 8.22
+FunBehaviour: 18.35 +- 3.06
+Playability: -8.28 +- 3.29
+FunContent: 21.17 +- 1.67
+EpLength: 25.00 +- 0.00
+TotalScore: 31.24 +- 5.21
+
+----------------Total steps: 147500----------------
+Time passed: 19397s
+fps: 8.46
+FunBehaviour: 19.17 +- 2.77
+Playability: -7.41 +- 3.62
+FunContent: 20.83 +- 1.19
+EpLength: 25.00 +- 0.00
+TotalScore: 32.59 +- 4.62
+
+----------------Total steps: 150000----------------
+Time passed: 19691s
+fps: 8.49
+FunBehaviour: 19.44 +- 2.63
+Playability: -7.93 +- 3.80
+FunContent: 20.82 +- 1.70
+EpLength: 25.00 +- 0.00
+TotalScore: 32.33 +- 5.11
+
+----------------Total steps: 152500----------------
+Time passed: 19987s
+fps: 8.45
+FunBehaviour: 18.98 +- 3.41
+Playability: -7.24 +- 3.54
+FunContent: 20.80 +- 1.16
+EpLength: 25.00 +- 0.00
+TotalScore: 32.54 +- 5.18
+
+----------------Total steps: 155000----------------
+Time passed: 20275s
+fps: 8.67
+FunBehaviour: 18.41 +- 3.03
+Playability: -7.10 +- 3.68
+FunContent: 20.90 +- 1.12
+EpLength: 25.00 +- 0.00
+TotalScore: 32.21 +- 5.06
+
+----------------Total steps: 157500----------------
+Time passed: 20569s
+fps: 8.52
+FunBehaviour: 19.07 +- 3.13
+Playability: -7.68 +- 3.67
+FunContent: 21.02 +- 1.21
+EpLength: 25.00 +- 0.00
+TotalScore: 32.41 +- 5.09
+
+----------------Total steps: 160000----------------
+Time passed: 20865s
+fps: 8.45
+FunBehaviour: 19.81 +- 2.63
+Playability: -6.68 +- 3.62
+FunContent: 20.89 +- 1.32
+EpLength: 25.00 +- 0.00
+TotalScore: 34.02 +- 4.85
+
+----------------Total steps: 162500----------------
+Time passed: 21150s
+fps: 8.75
+FunBehaviour: 18.64 +- 3.40
+Playability: -6.20 +- 3.67
+FunContent: 20.76 +- 1.17
+EpLength: 25.00 +- 0.00
+TotalScore: 33.20 +- 5.03
+
+----------------Total steps: 165000----------------
+Time passed: 21435s
+fps: 8.78
+FunBehaviour: 19.08 +- 3.46
+Playability: -6.37 +- 3.62
+FunContent: 20.80 +- 1.20
+EpLength: 25.00 +- 0.00
+TotalScore: 33.51 +- 4.85
+
+----------------Total steps: 167500----------------
+Time passed: 21726s
+fps: 8.59
+FunBehaviour: 19.56 +- 2.62
+Playability: -5.97 +- 3.64
+FunContent: 20.42 +- 1.19
+EpLength: 25.00 +- 0.00
+TotalScore: 34.02 +- 4.84
+
+----------------Total steps: 170000----------------
+Time passed: 22001s
+fps: 9.12
+FunBehaviour: 19.58 +- 2.39
+Playability: -5.14 +- 2.91
+FunContent: 20.61 +- 1.31
+EpLength: 25.00 +- 0.00
+TotalScore: 35.05 +- 3.96
+
+----------------Total steps: 172500----------------
+Time passed: 22290s
+fps: 8.65
+FunBehaviour: 19.66 +- 2.27
+Playability: -5.50 +- 3.16
+FunContent: 20.79 +- 1.16
+EpLength: 25.00 +- 0.00
+TotalScore: 34.95 +- 4.01
+
+----------------Total steps: 175000----------------
+Time passed: 22577s
+fps: 8.7
+FunBehaviour: 19.68 +- 2.56
+Playability: -5.60 +- 3.99
+FunContent: 20.17 +- 1.23
+EpLength: 25.00 +- 0.00
+TotalScore: 34.25 +- 5.34
+
+----------------Total steps: 177500----------------
+Time passed: 22861s
+fps: 8.78
+FunBehaviour: 19.30 +- 3.16
+Playability: -5.38 +- 3.68
+FunContent: 20.25 +- 1.08
+EpLength: 25.00 +- 0.00
+TotalScore: 34.18 +- 5.11
+
+----------------Total steps: 180000----------------
+Time passed: 23143s
+fps: 8.88
+FunBehaviour: 19.44 +- 2.88
+Playability: -5.14 +- 3.41
+FunContent: 19.98 +- 1.31
+EpLength: 25.00 +- 0.00
+TotalScore: 34.28 +- 4.62
+
+----------------Total steps: 182500----------------
+Time passed: 23430s
+fps: 8.71
+FunBehaviour: 19.39 +- 3.40
+Playability: -5.34 +- 3.64
+FunContent: 20.69 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 34.75 +- 4.93
+
+----------------Total steps: 185000----------------
+Time passed: 23715s
+fps: 8.78
+FunBehaviour: 19.02 +- 3.65
+Playability: -6.16 +- 3.51
+FunContent: 20.83 +- 1.16
+EpLength: 25.00 +- 0.00
+TotalScore: 33.69 +- 5.36
+
+----------------Total steps: 187500----------------
+Time passed: 24002s
+fps: 8.69
+FunBehaviour: 18.81 +- 2.89
+Playability: -5.90 +- 3.40
+FunContent: 21.31 +- 1.11
+EpLength: 25.00 +- 0.00
+TotalScore: 34.22 +- 4.41
+
+----------------Total steps: 190000----------------
+Time passed: 24289s
+fps: 8.7
+FunBehaviour: 19.86 +- 2.44
+Playability: -5.88 +- 3.46
+FunContent: 20.79 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 34.77 +- 4.31
+
+----------------Total steps: 192500----------------
+Time passed: 24580s
+fps: 8.6
+FunBehaviour: 19.34 +- 3.21
+Playability: -6.50 +- 3.78
+FunContent: 20.27 +- 1.27
+EpLength: 25.00 +- 0.00
+TotalScore: 33.11 +- 5.47
+
+----------------Total steps: 195000----------------
+Time passed: 24877s
+fps: 8.42
+FunBehaviour: 19.79 +- 2.64
+Playability: -5.73 +- 3.53
+FunContent: 19.87 +- 1.17
+EpLength: 25.00 +- 0.00
+TotalScore: 33.92 +- 4.80
+
+----------------Total steps: 197500----------------
+Time passed: 25163s
+fps: 8.74
+FunBehaviour: 19.94 +- 2.78
+Playability: -5.32 +- 3.70
+FunContent: 20.37 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 34.98 +- 5.34
+
+----------------Total steps: 200000----------------
+Time passed: 25443s
+fps: 8.91
+FunBehaviour: 19.94 +- 2.63
+Playability: -4.59 +- 3.63
+FunContent: 19.66 +- 1.04
+EpLength: 25.00 +- 0.00
+TotalScore: 35.01 +- 4.67
+
+----------------Total steps: 202500----------------
+Time passed: 25723s
+fps: 8.96
+FunBehaviour: 19.24 +- 2.86
+Playability: -4.86 +- 2.81
+FunContent: 20.48 +- 1.11
+EpLength: 25.00 +- 0.00
+TotalScore: 34.86 +- 4.15
+
+----------------Total steps: 205000----------------
+Time passed: 26000s
+fps: 9
+FunBehaviour: 19.18 +- 2.68
+Playability: -5.40 +- 3.37
+FunContent: 20.48 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 34.26 +- 4.66
+
+----------------Total steps: 207500----------------
+Time passed: 26275s
+fps: 9.09
+FunBehaviour: 18.42 +- 3.17
+Playability: -5.07 +- 3.54
+FunContent: 20.50 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 33.85 +- 5.02
+
+----------------Total steps: 210000----------------
+Time passed: 26563s
+fps: 8.69
+FunBehaviour: 19.07 +- 3.30
+Playability: -5.38 +- 3.38
+FunContent: 21.29 +- 1.05
+EpLength: 25.00 +- 0.00
+TotalScore: 34.98 +- 5.10
+
+----------------Total steps: 212500----------------
+Time passed: 26837s
+fps: 9.14
+FunBehaviour: 19.37 +- 2.43
+Playability: -4.06 +- 3.00
+FunContent: 19.95 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 35.26 +- 4.12
+
+----------------Total steps: 215000----------------
+Time passed: 27109s
+fps: 9.16
+FunBehaviour: 19.40 +- 2.89
+Playability: -4.46 +- 3.12
+FunContent: 20.05 +- 0.96
+EpLength: 25.00 +- 0.00
+TotalScore: 35.00 +- 4.57
+
+----------------Total steps: 217500----------------
+Time passed: 27394s
+fps: 8.78
+FunBehaviour: 18.59 +- 2.74
+Playability: -6.14 +- 3.64
+FunContent: 20.47 +- 1.47
+EpLength: 25.00 +- 0.00
+TotalScore: 32.91 +- 5.77
+
+----------------Total steps: 220000----------------
+Time passed: 27686s
+fps: 8.58
+FunBehaviour: 19.58 +- 2.77
+Playability: -6.53 +- 3.89
+FunContent: 19.57 +- 1.34
+EpLength: 25.00 +- 0.00
+TotalScore: 32.62 +- 4.64
+
+----------------Total steps: 222500----------------
+Time passed: 27971s
+fps: 8.77
+FunBehaviour: 20.29 +- 2.35
+Playability: -5.47 +- 3.74
+FunContent: 20.43 +- 1.17
+EpLength: 25.00 +- 0.00
+TotalScore: 35.25 +- 4.80
+
+----------------Total steps: 225000----------------
+Time passed: 28252s
+fps: 8.89
+FunBehaviour: 19.47 +- 2.55
+Playability: -4.74 +- 3.31
+FunContent: 20.14 +- 1.19
+EpLength: 25.00 +- 0.00
+TotalScore: 34.87 +- 4.36
+
+----------------Total steps: 227500----------------
+Time passed: 28520s
+fps: 9.31
+FunBehaviour: 18.97 +- 2.69
+Playability: -4.17 +- 3.14
+FunContent: 20.35 +- 1.34
+EpLength: 25.00 +- 0.00
+TotalScore: 35.15 +- 4.57
+
+----------------Total steps: 230000----------------
+Time passed: 28812s
+fps: 8.57
+FunBehaviour: 20.01 +- 2.60
+Playability: -5.82 +- 3.99
+FunContent: 21.06 +- 1.10
+EpLength: 25.00 +- 0.00
+TotalScore: 35.25 +- 4.97
+
+----------------Total steps: 232500----------------
+Time passed: 29088s
+fps: 9.05
+FunBehaviour: 19.65 +- 2.57
+Playability: -4.42 +- 2.91
+FunContent: 19.96 +- 1.34
+EpLength: 25.00 +- 0.00
+TotalScore: 35.19 +- 4.26
+
+----------------Total steps: 235000----------------
+Time passed: 29371s
+fps: 8.85
+FunBehaviour: 20.54 +- 2.14
+Playability: -4.35 +- 3.24
+FunContent: 20.72 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 36.91 +- 4.59
+
+----------------Total steps: 237500----------------
+Time passed: 29658s
+fps: 8.72
+FunBehaviour: 19.92 +- 2.74
+Playability: -4.30 +- 3.60
+FunContent: 20.09 +- 1.35
+EpLength: 25.00 +- 0.00
+TotalScore: 35.71 +- 4.61
+
+----------------Total steps: 240000----------------
+Time passed: 29935s
+fps: 9
+FunBehaviour: 20.24 +- 2.68
+Playability: -4.55 +- 2.70
+FunContent: 21.05 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 36.73 +- 4.35
+
+----------------Total steps: 242500----------------
+Time passed: 30209s
+fps: 9.12
+FunBehaviour: 19.91 +- 2.30
+Playability: -3.66 +- 3.02
+FunContent: 20.45 +- 1.24
+EpLength: 25.00 +- 0.00
+TotalScore: 36.69 +- 3.82
+
+----------------Total steps: 245000----------------
+Time passed: 30491s
+fps: 8.88
+FunBehaviour: 19.89 +- 1.90
+Playability: -4.64 +- 3.02
+FunContent: 21.02 +- 1.01
+EpLength: 25.00 +- 0.00
+TotalScore: 36.27 +- 3.93
+
+----------------Total steps: 247500----------------
+Time passed: 30776s
+fps: 8.78
+FunBehaviour: 20.42 +- 2.37
+Playability: -4.95 +- 3.61
+FunContent: 21.16 +- 1.23
+EpLength: 25.00 +- 0.00
+TotalScore: 36.63 +- 4.60
+
+----------------Total steps: 250000----------------
+Time passed: 31055s
+fps: 8.94
+FunBehaviour: 19.34 +- 2.69
+Playability: -4.74 +- 3.32
+FunContent: 20.75 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 35.35 +- 4.67
+
+----------------Total steps: 252500----------------
+Time passed: 31329s
+fps: 9.15
+FunBehaviour: 20.14 +- 2.48
+Playability: -3.83 +- 2.79
+FunContent: 20.99 +- 1.13
+EpLength: 25.00 +- 0.00
+TotalScore: 37.30 +- 4.08
+
+----------------Total steps: 255000----------------
+Time passed: 31607s
+fps: 8.99
+FunBehaviour: 20.09 +- 2.32
+Playability: -4.18 +- 3.49
+FunContent: 21.02 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 36.94 +- 4.67
+
+----------------Total steps: 257500----------------
+Time passed: 31874s
+fps: 9.36
+FunBehaviour: 20.26 +- 1.85
+Playability: -3.43 +- 2.64
+FunContent: 20.62 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 37.46 +- 3.41
+
+----------------Total steps: 260000----------------
+Time passed: 32154s
+fps: 8.93
+FunBehaviour: 20.49 +- 2.57
+Playability: -3.64 +- 2.71
+FunContent: 20.26 +- 1.07
+EpLength: 25.00 +- 0.00
+TotalScore: 37.11 +- 4.17
+
+----------------Total steps: 262500----------------
+Time passed: 32428s
+fps: 9.12
+FunBehaviour: 20.10 +- 2.22
+Playability: -3.10 +- 2.98
+FunContent: 20.71 +- 1.33
+EpLength: 25.00 +- 0.00
+TotalScore: 37.71 +- 3.89
+
+----------------Total steps: 265000----------------
+Time passed: 32697s
+fps: 9.3
+FunBehaviour: 20.06 +- 2.26
+Playability: -3.46 +- 2.63
+FunContent: 21.07 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 37.67 +- 3.33
+
+----------------Total steps: 267500----------------
+Time passed: 32964s
+fps: 9.38
+FunBehaviour: 19.51 +- 2.58
+Playability: -3.04 +- 2.62
+FunContent: 20.55 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 37.02 +- 4.24
+
+----------------Total steps: 270000----------------
+Time passed: 33237s
+fps: 9.15
+FunBehaviour: 20.03 +- 2.26
+Playability: -4.10 +- 3.18
+FunContent: 21.16 +- 1.13
+EpLength: 25.00 +- 0.00
+TotalScore: 37.09 +- 4.05
+
+----------------Total steps: 272500----------------
+Time passed: 33502s
+fps: 9.43
+FunBehaviour: 20.29 +- 2.25
+Playability: -3.38 +- 2.64
+FunContent: 21.12 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 38.03 +- 3.42
+
+----------------Total steps: 275000----------------
+Time passed: 33767s
+fps: 9.45
+FunBehaviour: 20.70 +- 1.45
+Playability: -2.93 +- 2.51
+FunContent: 20.23 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 38.00 +- 2.92
+
+----------------Total steps: 277500----------------
+Time passed: 34039s
+fps: 9.19
+FunBehaviour: 20.43 +- 2.22
+Playability: -4.16 +- 2.60
+FunContent: 21.34 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 37.61 +- 3.97
+
+----------------Total steps: 280000----------------
+Time passed: 34314s
+fps: 9.08
+FunBehaviour: 20.59 +- 2.04
+Playability: -3.78 +- 3.24
+FunContent: 21.14 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 37.96 +- 3.55
+
+----------------Total steps: 282500----------------
+Time passed: 34595s
+fps: 8.91
+FunBehaviour: 20.18 +- 2.36
+Playability: -3.38 +- 3.04
+FunContent: 21.12 +- 1.13
+EpLength: 25.00 +- 0.00
+TotalScore: 37.93 +- 4.27
+
+----------------Total steps: 285000----------------
+Time passed: 34869s
+fps: 9.1
+FunBehaviour: 19.95 +- 2.45
+Playability: -3.62 +- 2.73
+FunContent: 21.73 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 38.06 +- 4.00
+
+----------------Total steps: 287500----------------
+Time passed: 35136s
+fps: 9.39
+FunBehaviour: 20.40 +- 1.91
+Playability: -2.89 +- 2.64
+FunContent: 20.89 +- 1.04
+EpLength: 25.00 +- 0.00
+TotalScore: 38.40 +- 3.51
+
+----------------Total steps: 290000----------------
+Time passed: 35405s
+fps: 9.28
+FunBehaviour: 20.23 +- 1.94
+Playability: -3.98 +- 2.82
+FunContent: 21.43 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 37.68 +- 3.92
+
+----------------Total steps: 292500----------------
+Time passed: 35687s
+fps: 8.86
+FunBehaviour: 20.49 +- 2.13
+Playability: -4.24 +- 3.09
+FunContent: 21.85 +- 1.02
+EpLength: 25.00 +- 0.00
+TotalScore: 38.10 +- 3.95
+
+----------------Total steps: 295000----------------
+Time passed: 35959s
+fps: 9.19
+FunBehaviour: 20.77 +- 1.96
+Playability: -3.43 +- 2.85
+FunContent: 21.60 +- 0.94
+EpLength: 25.00 +- 0.00
+TotalScore: 38.94 +- 3.31
+
+----------------Total steps: 297500----------------
+Time passed: 36224s
+fps: 9.45
+FunBehaviour: 20.23 +- 2.08
+Playability: -3.30 +- 2.72
+FunContent: 21.42 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 38.35 +- 3.54
+
+----------------Total steps: 300000----------------
+Time passed: 36490s
+fps: 9.39
+FunBehaviour: 19.98 +- 2.41
+Playability: -3.47 +- 2.83
+FunContent: 21.73 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 38.24 +- 4.08
+
+----------------Total steps: 302500----------------
+Time passed: 36760s
+fps: 9.28
+FunBehaviour: 20.02 +- 2.29
+Playability: -3.57 +- 2.64
+FunContent: 21.61 +- 1.20
+EpLength: 25.00 +- 0.00
+TotalScore: 38.05 +- 3.88
+
+----------------Total steps: 305000----------------
+Time passed: 37030s
+fps: 9.25
+FunBehaviour: 20.56 +- 1.93
+Playability: -2.64 +- 2.46
+FunContent: 21.23 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 39.15 +- 3.55
+
+----------------Total steps: 307500----------------
+Time passed: 37301s
+fps: 9.22
+FunBehaviour: 20.00 +- 2.41
+Playability: -3.68 +- 2.74
+FunContent: 21.45 +- 1.05
+EpLength: 25.00 +- 0.00
+TotalScore: 37.77 +- 3.97
+
+----------------Total steps: 310000----------------
+Time passed: 37569s
+fps: 9.32
+FunBehaviour: 20.46 +- 2.19
+Playability: -3.26 +- 2.67
+FunContent: 21.58 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 38.79 +- 3.66
+
+----------------Total steps: 312500----------------
+Time passed: 37845s
+fps: 9.05
+FunBehaviour: 20.42 +- 1.98
+Playability: -3.64 +- 2.96
+FunContent: 21.32 +- 1.05
+EpLength: 25.00 +- 0.00
+TotalScore: 38.10 +- 3.67
+
+----------------Total steps: 315000----------------
+Time passed: 38110s
+fps: 9.45
+FunBehaviour: 20.47 +- 1.84
+Playability: -3.00 +- 2.32
+FunContent: 21.65 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 39.12 +- 3.20
+
+----------------Total steps: 317500----------------
+Time passed: 38383s
+fps: 9.16
+FunBehaviour: 20.62 +- 1.90
+Playability: -3.75 +- 3.04
+FunContent: 20.85 +- 1.51
+EpLength: 25.00 +- 0.00
+TotalScore: 37.72 +- 4.00
+
+----------------Total steps: 320000----------------
+Time passed: 38651s
+fps: 9.32
+FunBehaviour: 20.26 +- 2.01
+Playability: -3.08 +- 2.58
+FunContent: 20.64 +- 1.12
+EpLength: 25.00 +- 0.00
+TotalScore: 37.82 +- 3.40
+
+----------------Total steps: 322500----------------
+Time passed: 38924s
+fps: 9.16
+FunBehaviour: 20.35 +- 1.97
+Playability: -3.39 +- 2.80
+FunContent: 21.69 +- 0.62
+EpLength: 25.00 +- 0.00
+TotalScore: 38.65 +- 3.40
+
+----------------Total steps: 325000----------------
+Time passed: 39195s
+fps: 9.23
+FunBehaviour: 20.75 +- 1.76
+Playability: -3.03 +- 2.97
+FunContent: 21.12 +- 1.20
+EpLength: 25.00 +- 0.00
+TotalScore: 38.84 +- 3.81
+
+----------------Total steps: 327500----------------
+Time passed: 39470s
+fps: 9.09
+FunBehaviour: 20.90 +- 1.94
+Playability: -3.34 +- 2.90
+FunContent: 21.75 +- 1.61
+EpLength: 25.00 +- 0.00
+TotalScore: 39.31 +- 4.20
+
+----------------Total steps: 330000----------------
+Time passed: 39745s
+fps: 9.11
+FunBehaviour: 20.75 +- 2.60
+Playability: -3.75 +- 2.94
+FunContent: 21.62 +- 1.25
+EpLength: 25.00 +- 0.00
+TotalScore: 38.62 +- 4.36
+
+----------------Total steps: 332500----------------
+Time passed: 40018s
+fps: 9.13
+FunBehaviour: 20.18 +- 2.51
+Playability: -3.47 +- 2.62
+FunContent: 21.64 +- 1.07
+EpLength: 25.00 +- 0.00
+TotalScore: 38.35 +- 3.93
+
+----------------Total steps: 335000----------------
+Time passed: 40285s
+fps: 9.36
+FunBehaviour: 20.49 +- 2.35
+Playability: -3.20 +- 2.39
+FunContent: 21.92 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 39.22 +- 3.68
+
+----------------Total steps: 337500----------------
+Time passed: 40551s
+fps: 9.43
+FunBehaviour: 20.54 +- 2.63
+Playability: -3.35 +- 3.11
+FunContent: 21.87 +- 0.92
+EpLength: 25.00 +- 0.00
+TotalScore: 39.06 +- 4.70
+
+----------------Total steps: 340000----------------
+Time passed: 40817s
+fps: 9.38
+FunBehaviour: 20.76 +- 2.09
+Playability: -2.92 +- 2.44
+FunContent: 21.84 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 39.68 +- 3.30
+
+----------------Total steps: 342500----------------
+Time passed: 41087s
+fps: 9.26
+FunBehaviour: 20.78 +- 1.94
+Playability: -3.46 +- 2.77
+FunContent: 21.97 +- 1.13
+EpLength: 25.00 +- 0.00
+TotalScore: 39.29 +- 3.58
+
+----------------Total steps: 345000----------------
+Time passed: 41362s
+fps: 9.09
+FunBehaviour: 20.82 +- 1.97
+Playability: -3.30 +- 2.95
+FunContent: 21.86 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 39.37 +- 3.57
+
+----------------Total steps: 347500----------------
+Time passed: 41629s
+fps: 9.37
+FunBehaviour: 20.86 +- 2.07
+Playability: -3.69 +- 2.45
+FunContent: 22.14 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 39.31 +- 3.67
+
+----------------Total steps: 350000----------------
+Time passed: 41901s
+fps: 9.2
+FunBehaviour: 20.77 +- 2.61
+Playability: -3.89 +- 2.69
+FunContent: 21.57 +- 1.30
+EpLength: 25.00 +- 0.00
+TotalScore: 38.44 +- 4.21
+
+----------------Total steps: 352500----------------
+Time passed: 42176s
+fps: 9.11
+FunBehaviour: 20.84 +- 2.27
+Playability: -3.62 +- 2.81
+FunContent: 21.50 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 38.71 +- 3.93
+
+----------------Total steps: 355000----------------
+Time passed: 42443s
+fps: 9.33
+FunBehaviour: 20.40 +- 2.48
+Playability: -2.90 +- 2.52
+FunContent: 21.16 +- 1.11
+EpLength: 25.00 +- 0.00
+TotalScore: 38.66 +- 3.99
+
+----------------Total steps: 357500----------------
+Time passed: 42707s
+fps: 9.47
+FunBehaviour: 20.81 +- 2.34
+Playability: -2.76 +- 2.46
+FunContent: 21.41 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 39.46 +- 3.67
+
+----------------Total steps: 360000----------------
+Time passed: 42970s
+fps: 9.52
+FunBehaviour: 21.33 +- 1.76
+Playability: -2.93 +- 2.50
+FunContent: 21.73 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 40.13 +- 3.45
+
+----------------Total steps: 362500----------------
+Time passed: 43237s
+fps: 9.36
+FunBehaviour: 21.12 +- 1.59
+Playability: -2.92 +- 2.66
+FunContent: 21.81 +- 0.69
+EpLength: 25.00 +- 0.00
+TotalScore: 40.01 +- 3.44
+
+----------------Total steps: 365000----------------
+Time passed: 43514s
+fps: 9.05
+FunBehaviour: 20.18 +- 2.50
+Playability: -3.52 +- 2.85
+FunContent: 21.91 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 38.56 +- 3.68
+
+----------------Total steps: 367500----------------
+Time passed: 43782s
+fps: 9.32
+FunBehaviour: 21.11 +- 1.77
+Playability: -3.33 +- 2.67
+FunContent: 21.71 +- 0.79
+EpLength: 25.00 +- 0.00
+TotalScore: 39.49 +- 3.15
+
+----------------Total steps: 370000----------------
+Time passed: 44058s
+fps: 9.05
+FunBehaviour: 20.57 +- 2.04
+Playability: -4.05 +- 2.83
+FunContent: 21.79 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 38.31 +- 3.95
+
+----------------Total steps: 372500----------------
+Time passed: 44322s
+fps: 9.46
+FunBehaviour: 20.45 +- 2.04
+Playability: -3.33 +- 2.45
+FunContent: 21.89 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 39.01 +- 3.41
+
+----------------Total steps: 375000----------------
+Time passed: 44597s
+fps: 9.1
+FunBehaviour: 20.96 +- 1.83
+Playability: -3.65 +- 2.84
+FunContent: 21.71 +- 1.07
+EpLength: 25.00 +- 0.00
+TotalScore: 39.02 +- 3.57
+
+----------------Total steps: 377500----------------
+Time passed: 44863s
+fps: 9.39
+FunBehaviour: 20.77 +- 2.17
+Playability: -3.36 +- 2.54
+FunContent: 21.83 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 39.24 +- 3.79
+
+----------------Total steps: 380000----------------
+Time passed: 45128s
+fps: 9.43
+FunBehaviour: 21.29 +- 1.87
+Playability: -3.19 +- 2.69
+FunContent: 22.05 +- 0.81
+EpLength: 25.00 +- 0.00
+TotalScore: 40.14 +- 3.61
+
+----------------Total steps: 382500----------------
+Time passed: 45396s
+fps: 9.34
+FunBehaviour: 20.82 +- 2.11
+Playability: -2.91 +- 2.53
+FunContent: 22.19 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 40.10 +- 3.69
+
+----------------Total steps: 385000----------------
+Time passed: 45663s
+fps: 9.38
+FunBehaviour: 20.32 +- 2.11
+Playability: -2.97 +- 2.21
+FunContent: 21.81 +- 1.18
+EpLength: 25.00 +- 0.00
+TotalScore: 39.16 +- 3.34
+
+----------------Total steps: 387500----------------
+Time passed: 45929s
+fps: 9.37
+FunBehaviour: 20.67 +- 2.22
+Playability: -3.05 +- 2.50
+FunContent: 22.03 +- 0.95
+EpLength: 25.00 +- 0.00
+TotalScore: 39.65 +- 4.05
+
+----------------Total steps: 390000----------------
+Time passed: 46192s
+fps: 9.53
+FunBehaviour: 20.80 +- 2.60
+Playability: -3.02 +- 2.53
+FunContent: 22.20 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 39.98 +- 3.79
+
+----------------Total steps: 392500----------------
+Time passed: 46453s
+fps: 9.55
+FunBehaviour: 20.75 +- 1.85
+Playability: -3.25 +- 2.60
+FunContent: 21.84 +- 1.27
+EpLength: 25.00 +- 0.00
+TotalScore: 39.34 +- 3.59
+
+----------------Total steps: 395000----------------
+Time passed: 46721s
+fps: 9.36
+FunBehaviour: 20.76 +- 1.91
+Playability: -2.40 +- 2.37
+FunContent: 21.90 +- 1.09
+EpLength: 25.00 +- 0.00
+TotalScore: 40.26 +- 3.53
+
+----------------Total steps: 397500----------------
+Time passed: 46972s
+fps: 9.96
+FunBehaviour: 20.51 +- 1.97
+Playability: -2.53 +- 2.36
+FunContent: 21.83 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 39.81 +- 3.24
+
+----------------Total steps: 400000----------------
+Time passed: 47229s
+fps: 9.71
+FunBehaviour: 20.78 +- 1.89
+Playability: -2.98 +- 2.05
+FunContent: 21.95 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 39.75 +- 3.12
+
+----------------Total steps: 402500----------------
+Time passed: 47494s
+fps: 9.45
+FunBehaviour: 20.74 +- 2.02
+Playability: -2.94 +- 2.29
+FunContent: 21.75 +- 0.96
+EpLength: 25.00 +- 0.00
+TotalScore: 39.55 +- 3.66
+
+----------------Total steps: 405000----------------
+Time passed: 47757s
+fps: 9.5
+FunBehaviour: 20.82 +- 1.77
+Playability: -3.47 +- 2.53
+FunContent: 21.84 +- 1.08
+EpLength: 25.00 +- 0.00
+TotalScore: 39.19 +- 3.48
+
+----------------Total steps: 407500----------------
+Time passed: 48012s
+fps: 9.79
+FunBehaviour: 20.26 +- 2.08
+Playability: -2.51 +- 2.05
+FunContent: 21.97 +- 1.17
+EpLength: 25.00 +- 0.00
+TotalScore: 39.72 +- 3.05
+
+----------------Total steps: 410000----------------
+Time passed: 48272s
+fps: 9.6
+FunBehaviour: 20.75 +- 2.00
+Playability: -2.64 +- 2.22
+FunContent: 22.04 +- 0.81
+EpLength: 25.00 +- 0.00
+TotalScore: 40.15 +- 3.46
+
+----------------Total steps: 412500----------------
+Time passed: 48531s
+fps: 9.65
+FunBehaviour: 21.06 +- 2.03
+Playability: -2.96 +- 2.53
+FunContent: 22.31 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 40.41 +- 3.50
+
+----------------Total steps: 415000----------------
+Time passed: 48788s
+fps: 9.74
+FunBehaviour: 20.70 +- 1.93
+Playability: -2.63 +- 2.14
+FunContent: 21.99 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 40.06 +- 3.18
+
+----------------Total steps: 417500----------------
+Time passed: 49052s
+fps: 9.48
+FunBehaviour: 21.13 +- 2.19
+Playability: -2.73 +- 2.32
+FunContent: 21.92 +- 0.90
+EpLength: 25.00 +- 0.00
+TotalScore: 40.33 +- 3.77
+
+----------------Total steps: 420000----------------
+Time passed: 49317s
+fps: 9.45
+FunBehaviour: 20.52 +- 2.17
+Playability: -2.65 +- 2.08
+FunContent: 21.90 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 39.77 +- 3.28
+
+----------------Total steps: 422500----------------
+Time passed: 49576s
+fps: 9.63
+FunBehaviour: 20.77 +- 2.38
+Playability: -2.23 +- 2.23
+FunContent: 21.71 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 40.25 +- 3.44
+
+----------------Total steps: 425000----------------
+Time passed: 49835s
+fps: 9.66
+FunBehaviour: 21.21 +- 1.86
+Playability: -2.54 +- 2.18
+FunContent: 22.14 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 40.81 +- 3.15
+
+----------------Total steps: 427500----------------
+Time passed: 50091s
+fps: 9.76
+FunBehaviour: 20.95 +- 1.71
+Playability: -2.50 +- 2.36
+FunContent: 21.59 +- 1.22
+EpLength: 25.00 +- 0.00
+TotalScore: 40.03 +- 3.30
+
+----------------Total steps: 430000----------------
+Time passed: 50348s
+fps: 9.75
+FunBehaviour: 20.98 +- 1.83
+Playability: -2.21 +- 2.35
+FunContent: 21.97 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 40.74 +- 3.27
+
+----------------Total steps: 432500----------------
+Time passed: 50611s
+fps: 9.5
+FunBehaviour: 20.93 +- 1.73
+Playability: -2.42 +- 2.37
+FunContent: 21.89 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 40.39 +- 3.09
+
+----------------Total steps: 435000----------------
+Time passed: 50879s
+fps: 9.34
+FunBehaviour: 21.23 +- 1.64
+Playability: -2.33 +- 2.32
+FunContent: 22.25 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 41.15 +- 3.03
+
+----------------Total steps: 437500----------------
+Time passed: 51144s
+fps: 9.43
+FunBehaviour: 20.88 +- 2.14
+Playability: -3.11 +- 2.58
+FunContent: 21.90 +- 1.21
+EpLength: 25.00 +- 0.00
+TotalScore: 39.67 +- 3.67
+
+----------------Total steps: 440000----------------
+Time passed: 51405s
+fps: 9.55
+FunBehaviour: 21.12 +- 1.84
+Playability: -2.20 +- 2.17
+FunContent: 22.16 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 41.08 +- 3.48
+
+----------------Total steps: 442500----------------
+Time passed: 51673s
+fps: 9.34
+FunBehaviour: 20.99 +- 1.91
+Playability: -3.12 +- 2.53
+FunContent: 22.48 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 40.36 +- 3.40
+
+----------------Total steps: 445000----------------
+Time passed: 51943s
+fps: 9.26
+FunBehaviour: 20.85 +- 2.03
+Playability: -2.98 +- 2.53
+FunContent: 22.32 +- 0.60
+EpLength: 25.00 +- 0.00
+TotalScore: 40.19 +- 3.22
+
+----------------Total steps: 447500----------------
+Time passed: 52199s
+fps: 9.77
+FunBehaviour: 20.92 +- 1.93
+Playability: -2.82 +- 2.27
+FunContent: 22.00 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 40.10 +- 3.10
+
+----------------Total steps: 450000----------------
+Time passed: 52457s
+fps: 9.67
+FunBehaviour: 20.14 +- 2.25
+Playability: -2.78 +- 2.25
+FunContent: 22.07 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 39.43 +- 3.56
+
+----------------Total steps: 452500----------------
+Time passed: 52721s
+fps: 9.49
+FunBehaviour: 20.77 +- 2.03
+Playability: -2.98 +- 2.27
+FunContent: 22.20 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 39.99 +- 3.32
+
+----------------Total steps: 455000----------------
+Time passed: 52978s
+fps: 9.73
+FunBehaviour: 20.34 +- 2.36
+Playability: -2.45 +- 2.36
+FunContent: 21.87 +- 1.28
+EpLength: 25.00 +- 0.00
+TotalScore: 39.76 +- 3.80
+
+----------------Total steps: 457500----------------
+Time passed: 53239s
+fps: 9.57
+FunBehaviour: 20.71 +- 2.20
+Playability: -2.41 +- 2.48
+FunContent: 22.38 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 40.69 +- 3.68
+
+----------------Total steps: 460000----------------
+Time passed: 53498s
+fps: 9.65
+FunBehaviour: 21.19 +- 1.75
+Playability: -2.59 +- 2.33
+FunContent: 22.24 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 40.84 +- 3.21
+
+----------------Total steps: 462500----------------
+Time passed: 53766s
+fps: 9.32
+FunBehaviour: 20.68 +- 1.80
+Playability: -3.16 +- 2.80
+FunContent: 21.86 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 39.38 +- 4.10
+
+----------------Total steps: 465000----------------
+Time passed: 54036s
+fps: 9.26
+FunBehaviour: 20.29 +- 2.28
+Playability: -3.19 +- 2.56
+FunContent: 22.31 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 39.41 +- 3.62
+
+----------------Total steps: 467500----------------
+Time passed: 54296s
+fps: 9.62
+FunBehaviour: 20.74 +- 1.99
+Playability: -2.82 +- 2.48
+FunContent: 22.40 +- 0.59
+EpLength: 25.00 +- 0.00
+TotalScore: 40.32 +- 3.41
+
+----------------Total steps: 470000----------------
+Time passed: 54562s
+fps: 9.39
+FunBehaviour: 20.90 +- 2.06
+Playability: -2.73 +- 2.19
+FunContent: 22.31 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 40.48 +- 3.39
+
+----------------Total steps: 472500----------------
+Time passed: 54838s
+fps: 9.07
+FunBehaviour: 20.96 +- 2.02
+Playability: -3.29 +- 2.95
+FunContent: 22.66 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 40.33 +- 3.72
+
+----------------Total steps: 475000----------------
+Time passed: 55105s
+fps: 9.38
+FunBehaviour: 21.23 +- 1.74
+Playability: -2.58 +- 2.62
+FunContent: 22.41 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 41.06 +- 3.43
+
+----------------Total steps: 477500----------------
+Time passed: 55375s
+fps: 9.23
+FunBehaviour: 21.31 +- 1.74
+Playability: -3.10 +- 2.63
+FunContent: 22.47 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 40.68 +- 3.27
+
+----------------Total steps: 480000----------------
+Time passed: 55648s
+fps: 9.19
+FunBehaviour: 21.09 +- 1.73
+Playability: -3.00 +- 2.71
+FunContent: 22.46 +- 0.67
+EpLength: 25.00 +- 0.00
+TotalScore: 40.55 +- 3.60
+
+----------------Total steps: 482500----------------
+Time passed: 55909s
+fps: 9.56
+FunBehaviour: 21.16 +- 2.05
+Playability: -2.33 +- 2.09
+FunContent: 22.39 +- 0.97
+EpLength: 25.00 +- 0.00
+TotalScore: 41.22 +- 3.33
+
+----------------Total steps: 485000----------------
+Time passed: 56167s
+fps: 9.7
+FunBehaviour: 21.47 +- 1.48
+Playability: -2.26 +- 2.19
+FunContent: 22.46 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 41.67 +- 3.04
+
+----------------Total steps: 487500----------------
+Time passed: 56427s
+fps: 9.6
+FunBehaviour: 20.62 +- 2.49
+Playability: -2.48 +- 2.03
+FunContent: 22.38 +- 0.79
+EpLength: 25.00 +- 0.00
+TotalScore: 40.52 +- 3.68
+
+----------------Total steps: 490000----------------
+Time passed: 56685s
+fps: 9.72
+FunBehaviour: 21.06 +- 1.89
+Playability: -2.25 +- 1.94
+FunContent: 22.46 +- 0.75
+EpLength: 25.00 +- 0.00
+TotalScore: 41.27 +- 3.02
+
+----------------Total steps: 492500----------------
+Time passed: 56949s
+fps: 9.44
+FunBehaviour: 21.37 +- 1.69
+Playability: -2.68 +- 2.40
+FunContent: 22.47 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 41.15 +- 3.10
+
+----------------Total steps: 495000----------------
+Time passed: 57210s
+fps: 9.58
+FunBehaviour: 20.74 +- 2.26
+Playability: -2.21 +- 1.97
+FunContent: 22.34 +- 1.08
+EpLength: 25.00 +- 0.00
+TotalScore: 40.87 +- 3.40
+
+----------------Total steps: 497500----------------
+Time passed: 57475s
+fps: 9.45
+FunBehaviour: 20.84 +- 1.77
+Playability: -3.13 +- 2.46
+FunContent: 22.39 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 40.10 +- 3.15
+
+----------------Total steps: 500000----------------
+Time passed: 57736s
+fps: 9.59
+FunBehaviour: 20.92 +- 2.06
+Playability: -2.20 +- 1.78
+FunContent: 22.26 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 40.98 +- 2.88
+
+----------------Total steps: 502500----------------
+Time passed: 58006s
+fps: 9.23
+FunBehaviour: 20.99 +- 1.77
+Playability: -2.83 +- 2.51
+FunContent: 22.24 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 40.40 +- 3.50
+
+----------------Total steps: 505000----------------
+Time passed: 58272s
+fps: 9.4
+FunBehaviour: 21.28 +- 1.94
+Playability: -2.72 +- 2.78
+FunContent: 22.30 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 40.86 +- 3.62
+
+----------------Total steps: 507500----------------
+Time passed: 58533s
+fps: 9.57
+FunBehaviour: 21.21 +- 2.01
+Playability: -2.71 +- 2.52
+FunContent: 22.38 +- 1.16
+EpLength: 25.00 +- 0.00
+TotalScore: 40.88 +- 3.50
+
+----------------Total steps: 510000----------------
+Time passed: 58798s
+fps: 9.44
+FunBehaviour: 20.43 +- 2.06
+Playability: -2.68 +- 2.82
+FunContent: 22.66 +- 0.69
+EpLength: 25.00 +- 0.00
+TotalScore: 40.41 +- 3.75
+
+----------------Total steps: 512500----------------
+Time passed: 59059s
+fps: 9.58
+FunBehaviour: 20.45 +- 2.17
+Playability: -2.94 +- 2.59
+FunContent: 22.62 +- 0.63
+EpLength: 25.00 +- 0.00
+TotalScore: 40.13 +- 3.84
+
+----------------Total steps: 515000----------------
+Time passed: 59323s
+fps: 9.46
+FunBehaviour: 21.33 +- 1.99
+Playability: -3.14 +- 2.98
+FunContent: 22.51 +- 0.74
+EpLength: 25.00 +- 0.00
+TotalScore: 40.70 +- 3.74
+
+----------------Total steps: 517500----------------
+Time passed: 59582s
+fps: 9.65
+FunBehaviour: 20.81 +- 1.96
+Playability: -2.14 +- 2.01
+FunContent: 22.57 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 41.24 +- 3.32
+
+----------------Total steps: 520000----------------
+Time passed: 59852s
+fps: 9.27
+FunBehaviour: 21.13 +- 1.64
+Playability: -3.30 +- 2.86
+FunContent: 22.37 +- 0.99
+EpLength: 25.00 +- 0.00
+TotalScore: 40.20 +- 3.54
+
+----------------Total steps: 522500----------------
+Time passed: 60111s
+fps: 9.67
+FunBehaviour: 21.12 +- 1.90
+Playability: -2.66 +- 2.53
+FunContent: 22.40 +- 0.93
+EpLength: 25.00 +- 0.00
+TotalScore: 40.86 +- 3.54
+
+----------------Total steps: 525000----------------
+Time passed: 60374s
+fps: 9.5
+FunBehaviour: 21.00 +- 2.06
+Playability: -2.36 +- 2.47
+FunContent: 22.46 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 41.10 +- 3.51
+
+----------------Total steps: 527500----------------
+Time passed: 60639s
+fps: 9.42
+FunBehaviour: 20.84 +- 1.97
+Playability: -3.11 +- 2.61
+FunContent: 22.48 +- 1.01
+EpLength: 25.00 +- 0.00
+TotalScore: 40.21 +- 3.83
+
+----------------Total steps: 530000----------------
+Time passed: 60898s
+fps: 9.65
+FunBehaviour: 21.13 +- 1.85
+Playability: -2.38 +- 2.49
+FunContent: 22.29 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 41.04 +- 3.45
+
+----------------Total steps: 532500----------------
+Time passed: 61161s
+fps: 9.52
+FunBehaviour: 21.16 +- 1.74
+Playability: -2.69 +- 2.48
+FunContent: 22.08 +- 1.24
+EpLength: 25.00 +- 0.00
+TotalScore: 40.54 +- 3.67
+
+----------------Total steps: 535000----------------
+Time passed: 61428s
+fps: 9.35
+FunBehaviour: 20.96 +- 1.82
+Playability: -2.81 +- 2.90
+FunContent: 22.52 +- 0.90
+EpLength: 25.00 +- 0.00
+TotalScore: 40.67 +- 3.36
+
+----------------Total steps: 537500----------------
+Time passed: 61687s
+fps: 9.64
+FunBehaviour: 21.33 +- 1.89
+Playability: -2.57 +- 2.27
+FunContent: 22.68 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 41.45 +- 3.07
+
+----------------Total steps: 540000----------------
+Time passed: 61950s
+fps: 9.53
+FunBehaviour: 20.77 +- 1.87
+Playability: -2.34 +- 2.36
+FunContent: 22.46 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 40.89 +- 3.54
+
+----------------Total steps: 542500----------------
+Time passed: 62218s
+fps: 9.31
+FunBehaviour: 21.12 +- 1.79
+Playability: -2.66 +- 2.42
+FunContent: 22.35 +- 1.07
+EpLength: 25.00 +- 0.00
+TotalScore: 40.82 +- 3.56
+
+----------------Total steps: 545000----------------
+Time passed: 62475s
+fps: 9.73
+FunBehaviour: 21.35 +- 1.74
+Playability: -2.45 +- 2.19
+FunContent: 22.43 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 41.33 +- 3.16
+
+----------------Total steps: 547500----------------
+Time passed: 62732s
+fps: 9.72
+FunBehaviour: 21.13 +- 1.76
+Playability: -2.21 +- 2.18
+FunContent: 22.53 +- 0.62
+EpLength: 25.00 +- 0.00
+TotalScore: 41.46 +- 3.02
+
+----------------Total steps: 550000----------------
+Time passed: 62984s
+fps: 9.93
+FunBehaviour: 20.97 +- 2.08
+Playability: -1.64 +- 1.75
+FunContent: 22.33 +- 0.96
+EpLength: 25.00 +- 0.00
+TotalScore: 41.66 +- 3.11
+
+----------------Total steps: 552500----------------
+Time passed: 63248s
+fps: 9.47
+FunBehaviour: 21.12 +- 1.92
+Playability: -2.32 +- 2.14
+FunContent: 22.44 +- 1.04
+EpLength: 25.00 +- 0.00
+TotalScore: 41.24 +- 3.16
+
+----------------Total steps: 555000----------------
+Time passed: 63505s
+fps: 9.74
+FunBehaviour: 21.37 +- 1.64
+Playability: -2.10 +- 2.08
+FunContent: 22.43 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 41.70 +- 2.82
+
+----------------Total steps: 557500----------------
+Time passed: 63765s
+fps: 9.61
+FunBehaviour: 21.31 +- 1.64
+Playability: -2.64 +- 2.09
+FunContent: 22.43 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.10 +- 2.91
+
+----------------Total steps: 560000----------------
+Time passed: 64026s
+fps: 9.57
+FunBehaviour: 21.26 +- 2.43
+Playability: -2.21 +- 2.50
+FunContent: 22.55 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 41.59 +- 4.18
+
+----------------Total steps: 562500----------------
+Time passed: 64294s
+fps: 9.34
+FunBehaviour: 21.04 +- 2.12
+Playability: -2.57 +- 2.49
+FunContent: 22.52 +- 0.79
+EpLength: 25.00 +- 0.00
+TotalScore: 40.99 +- 3.58
+
+----------------Total steps: 565000----------------
+Time passed: 64554s
+fps: 9.61
+FunBehaviour: 21.22 +- 1.66
+Playability: -2.83 +- 2.72
+FunContent: 22.55 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 40.94 +- 3.55
+
+----------------Total steps: 567500----------------
+Time passed: 64813s
+fps: 9.65
+FunBehaviour: 20.73 +- 2.05
+Playability: -2.24 +- 2.28
+FunContent: 22.34 +- 1.04
+EpLength: 25.00 +- 0.00
+TotalScore: 40.83 +- 3.60
+
+----------------Total steps: 570000----------------
+Time passed: 65069s
+fps: 9.78
+FunBehaviour: 20.69 +- 2.46
+Playability: -2.39 +- 2.32
+FunContent: 22.45 +- 0.93
+EpLength: 25.00 +- 0.00
+TotalScore: 40.75 +- 4.01
+
+----------------Total steps: 572500----------------
+Time passed: 65329s
+fps: 9.62
+FunBehaviour: 21.57 +- 1.68
+Playability: -2.33 +- 2.40
+FunContent: 22.36 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 41.60 +- 3.12
+
+----------------Total steps: 575000----------------
+Time passed: 65586s
+fps: 9.71
+FunBehaviour: 21.09 +- 2.01
+Playability: -2.37 +- 2.07
+FunContent: 22.44 +- 1.13
+EpLength: 25.00 +- 0.00
+TotalScore: 41.16 +- 3.36
+
+----------------Total steps: 577500----------------
+Time passed: 65847s
+fps: 9.59
+FunBehaviour: 20.95 +- 2.09
+Playability: -2.64 +- 2.53
+FunContent: 22.60 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 40.91 +- 3.84
+
+----------------Total steps: 580000----------------
+Time passed: 66105s
+fps: 9.68
+FunBehaviour: 21.25 +- 2.19
+Playability: -2.33 +- 2.03
+FunContent: 22.54 +- 0.69
+EpLength: 25.00 +- 0.00
+TotalScore: 41.46 +- 3.10
+
+----------------Total steps: 582500----------------
+Time passed: 66366s
+fps: 9.58
+FunBehaviour: 21.08 +- 2.11
+Playability: -2.37 +- 2.36
+FunContent: 22.46 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 41.18 +- 3.66
+
+----------------Total steps: 585000----------------
+Time passed: 66621s
+fps: 9.81
+FunBehaviour: 20.75 +- 2.18
+Playability: -2.43 +- 2.29
+FunContent: 22.66 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 40.97 +- 3.55
+
+----------------Total steps: 587500----------------
+Time passed: 66880s
+fps: 9.63
+FunBehaviour: 21.39 +- 1.69
+Playability: -2.13 +- 2.02
+FunContent: 22.54 +- 0.75
+EpLength: 25.00 +- 0.00
+TotalScore: 41.80 +- 3.00
+
+----------------Total steps: 590000----------------
+Time passed: 67143s
+fps: 9.52
+FunBehaviour: 21.35 +- 1.83
+Playability: -2.48 +- 2.73
+FunContent: 22.52 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 41.39 +- 3.59
+
+----------------Total steps: 592500----------------
+Time passed: 67403s
+fps: 9.62
+FunBehaviour: 21.22 +- 1.94
+Playability: -2.18 +- 2.00
+FunContent: 22.44 +- 1.12
+EpLength: 25.00 +- 0.00
+TotalScore: 41.48 +- 3.09
+
+----------------Total steps: 595000----------------
+Time passed: 67666s
+fps: 9.48
+FunBehaviour: 21.32 +- 1.70
+Playability: -2.48 +- 2.39
+FunContent: 22.54 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 41.38 +- 3.54
+
+----------------Total steps: 597500----------------
+Time passed: 67934s
+fps: 9.36
+FunBehaviour: 21.10 +- 2.18
+Playability: -2.94 +- 2.52
+FunContent: 22.60 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 40.76 +- 3.90
+
+----------------Total steps: 600000----------------
+Time passed: 68194s
+fps: 9.59
+FunBehaviour: 21.27 +- 1.58
+Playability: -2.54 +- 2.31
+FunContent: 22.62 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 41.35 +- 3.07
+
+----------------Total steps: 602500----------------
+Time passed: 68450s
+fps: 9.76
+FunBehaviour: 21.19 +- 1.84
+Playability: -2.06 +- 1.73
+FunContent: 22.59 +- 0.99
+EpLength: 25.00 +- 0.00
+TotalScore: 41.71 +- 2.89
+
+----------------Total steps: 605000----------------
+Time passed: 68713s
+fps: 9.52
+FunBehaviour: 21.40 +- 1.97
+Playability: -2.58 +- 2.45
+FunContent: 22.45 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 41.28 +- 3.55
+
+----------------Total steps: 607500----------------
+Time passed: 68973s
+fps: 9.61
+FunBehaviour: 21.13 +- 1.78
+Playability: -1.89 +- 2.08
+FunContent: 22.59 +- 0.89
+EpLength: 25.00 +- 0.00
+TotalScore: 41.83 +- 3.10
+
+----------------Total steps: 610000----------------
+Time passed: 69231s
+fps: 9.7
+FunBehaviour: 21.22 +- 2.19
+Playability: -2.27 +- 1.98
+FunContent: 22.65 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 41.60 +- 3.14
+
+----------------Total steps: 612500----------------
+Time passed: 69483s
+fps: 9.91
+FunBehaviour: 21.30 +- 2.02
+Playability: -2.16 +- 1.75
+FunContent: 22.56 +- 0.75
+EpLength: 25.00 +- 0.00
+TotalScore: 41.70 +- 2.93
+
+----------------Total steps: 615000----------------
+Time passed: 69751s
+fps: 9.33
+FunBehaviour: 21.64 +- 1.58
+Playability: -2.58 +- 2.38
+FunContent: 22.47 +- 0.73
+EpLength: 25.00 +- 0.00
+TotalScore: 41.53 +- 3.01
+
+----------------Total steps: 617500----------------
+Time passed: 70014s
+fps: 9.5
+FunBehaviour: 21.14 +- 2.02
+Playability: -2.36 +- 2.22
+FunContent: 22.60 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 41.39 +- 3.44
+
+----------------Total steps: 620000----------------
+Time passed: 70275s
+fps: 9.59
+FunBehaviour: 20.85 +- 2.05
+Playability: -2.46 +- 2.32
+FunContent: 22.17 +- 1.19
+EpLength: 25.00 +- 0.00
+TotalScore: 40.56 +- 3.25
+
+----------------Total steps: 622500----------------
+Time passed: 70533s
+fps: 9.68
+FunBehaviour: 21.33 +- 1.70
+Playability: -2.20 +- 2.21
+FunContent: 22.14 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 41.27 +- 2.74
+
+----------------Total steps: 625000----------------
+Time passed: 70793s
+fps: 9.64
+FunBehaviour: 21.27 +- 1.97
+Playability: -2.46 +- 2.04
+FunContent: 22.54 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 41.34 +- 3.18
+
+----------------Total steps: 627500----------------
+Time passed: 71058s
+fps: 9.44
+FunBehaviour: 21.38 +- 1.58
+Playability: -2.44 +- 2.24
+FunContent: 22.54 +- 0.93
+EpLength: 25.00 +- 0.00
+TotalScore: 41.47 +- 3.05
+
+----------------Total steps: 630000----------------
+Time passed: 71320s
+fps: 9.53
+FunBehaviour: 21.49 +- 1.60
+Playability: -2.59 +- 2.33
+FunContent: 22.53 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 41.43 +- 2.91
+
+----------------Total steps: 632500----------------
+Time passed: 71583s
+fps: 9.49
+FunBehaviour: 21.38 +- 1.95
+Playability: -2.54 +- 2.30
+FunContent: 22.45 +- 0.95
+EpLength: 25.00 +- 0.00
+TotalScore: 41.29 +- 3.49
+
+----------------Total steps: 635000----------------
+Time passed: 71844s
+fps: 9.59
+FunBehaviour: 21.56 +- 1.93
+Playability: -2.37 +- 2.29
+FunContent: 22.65 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 41.84 +- 3.17
+
+----------------Total steps: 637500----------------
+Time passed: 72105s
+fps: 9.57
+FunBehaviour: 21.46 +- 2.34
+Playability: -2.51 +- 2.13
+FunContent: 22.60 +- 1.22
+EpLength: 25.00 +- 0.00
+TotalScore: 41.55 +- 4.18
+
+----------------Total steps: 640000----------------
+Time passed: 72368s
+fps: 9.5
+FunBehaviour: 21.26 +- 1.90
+Playability: -3.02 +- 2.78
+FunContent: 22.33 +- 0.96
+EpLength: 25.00 +- 0.00
+TotalScore: 40.57 +- 3.83
+
+----------------Total steps: 642500----------------
+Time passed: 72635s
+fps: 9.38
+FunBehaviour: 21.14 +- 1.88
+Playability: -2.67 +- 2.69
+FunContent: 22.58 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 41.05 +- 3.56
+
+----------------Total steps: 645000----------------
+Time passed: 72895s
+fps: 9.59
+FunBehaviour: 21.42 +- 2.23
+Playability: -2.33 +- 2.53
+FunContent: 22.38 +- 1.26
+EpLength: 25.00 +- 0.00
+TotalScore: 41.47 +- 3.53
+
+----------------Total steps: 647500----------------
+Time passed: 73155s
+fps: 9.62
+FunBehaviour: 21.49 +- 1.71
+Playability: -2.15 +- 2.14
+FunContent: 22.53 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 41.87 +- 3.11
+
+----------------Total steps: 650000----------------
+Time passed: 73420s
+fps: 9.44
+FunBehaviour: 21.47 +- 1.81
+Playability: -2.12 +- 2.38
+FunContent: 22.56 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 41.91 +- 3.42
+
+----------------Total steps: 652500----------------
+Time passed: 73674s
+fps: 9.86
+FunBehaviour: 21.35 +- 1.93
+Playability: -2.20 +- 2.17
+FunContent: 22.68 +- 0.74
+EpLength: 25.00 +- 0.00
+TotalScore: 41.83 +- 3.15
+
+----------------Total steps: 655000----------------
+Time passed: 73935s
+fps: 9.55
+FunBehaviour: 20.93 +- 2.26
+Playability: -2.85 +- 2.34
+FunContent: 22.89 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 40.97 +- 3.68
+
+----------------Total steps: 657500----------------
+Time passed: 74194s
+fps: 9.67
+FunBehaviour: 21.31 +- 1.85
+Playability: -2.33 +- 2.35
+FunContent: 22.65 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 41.64 +- 3.19
+
+----------------Total steps: 660000----------------
+Time passed: 74461s
+fps: 9.37
+FunBehaviour: 21.45 +- 1.84
+Playability: -2.91 +- 2.78
+FunContent: 22.74 +- 0.97
+EpLength: 25.00 +- 0.00
+TotalScore: 41.28 +- 3.89
+
+----------------Total steps: 662500----------------
+Time passed: 74721s
+fps: 9.61
+FunBehaviour: 21.60 +- 1.62
+Playability: -2.42 +- 2.47
+FunContent: 22.72 +- 1.12
+EpLength: 25.00 +- 0.00
+TotalScore: 41.90 +- 3.43
+
+----------------Total steps: 665000----------------
+Time passed: 74979s
+fps: 9.68
+FunBehaviour: 21.19 +- 1.76
+Playability: -1.89 +- 2.16
+FunContent: 22.87 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 42.17 +- 3.15
+
+----------------Total steps: 667500----------------
+Time passed: 75251s
+fps: 9.19
+FunBehaviour: 21.44 +- 1.88
+Playability: -2.69 +- 2.64
+FunContent: 22.64 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.39 +- 3.68
+
+----------------Total steps: 670000----------------
+Time passed: 75514s
+fps: 9.51
+FunBehaviour: 21.31 +- 1.87
+Playability: -2.71 +- 2.42
+FunContent: 22.72 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 41.31 +- 3.59
+
+----------------Total steps: 672500----------------
+Time passed: 75768s
+fps: 9.84
+FunBehaviour: 21.64 +- 1.72
+Playability: -2.02 +- 1.82
+FunContent: 22.63 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 42.25 +- 2.65
+
+----------------Total steps: 675000----------------
+Time passed: 76030s
+fps: 9.52
+FunBehaviour: 21.73 +- 1.39
+Playability: -2.24 +- 2.18
+FunContent: 22.64 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 42.14 +- 2.90
+
+----------------Total steps: 677500----------------
+Time passed: 76299s
+fps: 9.31
+FunBehaviour: 21.44 +- 1.82
+Playability: -2.80 +- 2.71
+FunContent: 22.61 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 41.25 +- 3.77
+
+----------------Total steps: 680000----------------
+Time passed: 76560s
+fps: 9.56
+FunBehaviour: 21.63 +- 1.60
+Playability: -2.32 +- 1.93
+FunContent: 22.45 +- 1.02
+EpLength: 25.00 +- 0.00
+TotalScore: 41.76 +- 2.79
+
+----------------Total steps: 682500----------------
+Time passed: 76824s
+fps: 9.48
+FunBehaviour: 21.77 +- 1.46
+Playability: -2.68 +- 2.45
+FunContent: 22.68 +- 0.47
+EpLength: 25.00 +- 0.00
+TotalScore: 41.77 +- 2.99
+
+----------------Total steps: 685000----------------
+Time passed: 77088s
+fps: 9.47
+FunBehaviour: 21.39 +- 1.93
+Playability: -3.01 +- 2.69
+FunContent: 22.64 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 41.02 +- 3.69
+
+----------------Total steps: 687500----------------
+Time passed: 77346s
+fps: 9.67
+FunBehaviour: 21.28 +- 1.94
+Playability: -2.28 +- 2.49
+FunContent: 22.49 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.49 +- 3.10
+
+----------------Total steps: 690000----------------
+Time passed: 77610s
+fps: 9.48
+FunBehaviour: 21.40 +- 2.07
+Playability: -2.58 +- 2.50
+FunContent: 22.42 +- 0.89
+EpLength: 25.00 +- 0.00
+TotalScore: 41.24 +- 3.67
+
+----------------Total steps: 692500----------------
+Time passed: 77867s
+fps: 9.74
+FunBehaviour: 21.27 +- 1.92
+Playability: -2.02 +- 2.08
+FunContent: 22.84 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 42.09 +- 2.99
+
+----------------Total steps: 695000----------------
+Time passed: 78121s
+fps: 9.84
+FunBehaviour: 21.32 +- 1.96
+Playability: -2.61 +- 2.18
+FunContent: 22.68 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 41.40 +- 3.36
+
+----------------Total steps: 697500----------------
+Time passed: 78382s
+fps: 9.58
+FunBehaviour: 21.39 +- 1.95
+Playability: -2.07 +- 2.35
+FunContent: 22.55 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.86 +- 3.30
+
+----------------Total steps: 700000----------------
+Time passed: 78645s
+fps: 9.49
+FunBehaviour: 21.65 +- 1.96
+Playability: -2.56 +- 2.38
+FunContent: 22.54 +- 0.76
+EpLength: 25.00 +- 0.00
+TotalScore: 41.63 +- 3.30
+
+----------------Total steps: 702500----------------
+Time passed: 78901s
+fps: 9.76
+FunBehaviour: 21.69 +- 1.61
+Playability: -2.29 +- 2.10
+FunContent: 22.46 +- 0.99
+EpLength: 25.00 +- 0.00
+TotalScore: 41.86 +- 3.08
+
+----------------Total steps: 705000----------------
+Time passed: 79161s
+fps: 9.63
+FunBehaviour: 21.48 +- 2.22
+Playability: -2.20 +- 2.05
+FunContent: 22.83 +- 0.61
+EpLength: 25.00 +- 0.00
+TotalScore: 42.12 +- 3.17
+
+----------------Total steps: 707500----------------
+Time passed: 79418s
+fps: 9.72
+FunBehaviour: 21.60 +- 1.67
+Playability: -1.72 +- 1.98
+FunContent: 22.57 +- 0.81
+EpLength: 25.00 +- 0.00
+TotalScore: 42.45 +- 2.97
+
+----------------Total steps: 710000----------------
+Time passed: 79681s
+fps: 9.5
+FunBehaviour: 21.81 +- 1.64
+Playability: -2.51 +- 2.42
+FunContent: 22.51 +- 0.93
+EpLength: 25.00 +- 0.00
+TotalScore: 41.81 +- 3.19
+
+----------------Total steps: 712500----------------
+Time passed: 79943s
+fps: 9.53
+FunBehaviour: 21.19 +- 2.26
+Playability: -2.52 +- 2.73
+FunContent: 22.56 +- 1.14
+EpLength: 25.00 +- 0.00
+TotalScore: 41.23 +- 4.10
+
+----------------Total steps: 715000----------------
+Time passed: 80203s
+fps: 9.63
+FunBehaviour: 21.69 +- 1.79
+Playability: -1.90 +- 2.13
+FunContent: 22.81 +- 0.97
+EpLength: 25.00 +- 0.00
+TotalScore: 42.60 +- 3.06
+
+----------------Total steps: 717500----------------
+Time passed: 80465s
+fps: 9.55
+FunBehaviour: 21.49 +- 1.58
+Playability: -2.45 +- 2.75
+FunContent: 22.71 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 41.76 +- 3.28
+
+----------------Total steps: 720000----------------
+Time passed: 80728s
+fps: 9.49
+FunBehaviour: 21.63 +- 1.71
+Playability: -2.78 +- 2.47
+FunContent: 22.70 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 41.54 +- 3.38
+
+----------------Total steps: 722500----------------
+Time passed: 80986s
+fps: 9.7
+FunBehaviour: 21.12 +- 1.80
+Playability: -2.31 +- 2.38
+FunContent: 22.68 +- 1.05
+EpLength: 25.00 +- 0.00
+TotalScore: 41.49 +- 3.34
+
+----------------Total steps: 725000----------------
+Time passed: 81249s
+fps: 9.5
+FunBehaviour: 21.60 +- 1.60
+Playability: -1.98 +- 2.29
+FunContent: 22.65 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 42.27 +- 2.87
+
+----------------Total steps: 727500----------------
+Time passed: 81511s
+fps: 9.53
+FunBehaviour: 21.21 +- 1.84
+Playability: -2.72 +- 2.59
+FunContent: 22.68 +- 0.74
+EpLength: 25.00 +- 0.00
+TotalScore: 41.18 +- 3.75
+
+----------------Total steps: 730000----------------
+Time passed: 81775s
+fps: 9.48
+FunBehaviour: 21.06 +- 1.93
+Playability: -2.58 +- 2.41
+FunContent: 22.52 +- 1.21
+EpLength: 25.00 +- 0.00
+TotalScore: 40.99 +- 3.81
+
+----------------Total steps: 732500----------------
+Time passed: 82031s
+fps: 9.78
+FunBehaviour: 20.95 +- 2.05
+Playability: -2.42 +- 2.21
+FunContent: 22.32 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 40.85 +- 3.43
+
+----------------Total steps: 735000----------------
+Time passed: 82287s
+fps: 9.76
+FunBehaviour: 21.43 +- 1.79
+Playability: -1.76 +- 1.86
+FunContent: 22.65 +- 0.81
+EpLength: 25.00 +- 0.00
+TotalScore: 42.31 +- 2.94
+
+----------------Total steps: 737500----------------
+Time passed: 82554s
+fps: 9.37
+FunBehaviour: 21.35 +- 2.27
+Playability: -2.69 +- 2.47
+FunContent: 22.78 +- 0.61
+EpLength: 25.00 +- 0.00
+TotalScore: 41.44 +- 3.95
+
+----------------Total steps: 740000----------------
+Time passed: 82812s
+fps: 9.69
+FunBehaviour: 21.59 +- 1.69
+Playability: -2.14 +- 2.07
+FunContent: 22.60 +- 1.01
+EpLength: 25.00 +- 0.00
+TotalScore: 42.04 +- 3.00
+
+----------------Total steps: 742500----------------
+Time passed: 83077s
+fps: 9.45
+FunBehaviour: 21.67 +- 1.52
+Playability: -2.30 +- 2.57
+FunContent: 22.58 +- 1.37
+EpLength: 25.00 +- 0.00
+TotalScore: 41.95 +- 3.41
+
+----------------Total steps: 745000----------------
+Time passed: 83339s
+fps: 9.52
+FunBehaviour: 21.43 +- 1.61
+Playability: -2.78 +- 2.38
+FunContent: 22.88 +- 0.58
+EpLength: 25.00 +- 0.00
+TotalScore: 41.53 +- 3.13
+
+----------------Total steps: 747500----------------
+Time passed: 83597s
+fps: 9.69
+FunBehaviour: 21.54 +- 2.08
+Playability: -2.03 +- 2.08
+FunContent: 22.70 +- 0.92
+EpLength: 25.00 +- 0.00
+TotalScore: 42.21 +- 3.46
+
+----------------Total steps: 750000----------------
+Time passed: 83858s
+fps: 9.56
+FunBehaviour: 21.58 +- 1.97
+Playability: -2.03 +- 2.05
+FunContent: 22.67 +- 0.94
+EpLength: 25.00 +- 0.00
+TotalScore: 42.22 +- 2.87
+
+----------------Total steps: 752500----------------
+Time passed: 84119s
+fps: 9.59
+FunBehaviour: 21.48 +- 1.76
+Playability: -2.32 +- 2.27
+FunContent: 22.86 +- 0.94
+EpLength: 25.00 +- 0.00
+TotalScore: 42.01 +- 3.22
+
+----------------Total steps: 755000----------------
+Time passed: 84395s
+fps: 9.05
+FunBehaviour: 21.82 +- 1.52
+Playability: -2.59 +- 2.60
+FunContent: 22.60 +- 1.15
+EpLength: 25.00 +- 0.00
+TotalScore: 41.82 +- 3.36
+
+----------------Total steps: 757500----------------
+Time passed: 84652s
+fps: 9.74
+FunBehaviour: 21.60 +- 1.79
+Playability: -2.27 +- 2.24
+FunContent: 22.69 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 42.02 +- 3.20
+
+----------------Total steps: 760000----------------
+Time passed: 84904s
+fps: 9.92
+FunBehaviour: 21.45 +- 1.84
+Playability: -1.75 +- 1.63
+FunContent: 22.81 +- 0.90
+EpLength: 25.00 +- 0.00
+TotalScore: 42.51 +- 2.82
+
+----------------Total steps: 762500----------------
+Time passed: 85167s
+fps: 9.52
+FunBehaviour: 21.41 +- 1.83
+Playability: -2.34 +- 2.03
+FunContent: 22.84 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 41.91 +- 3.22
+
+----------------Total steps: 765000----------------
+Time passed: 85425s
+fps: 9.69
+FunBehaviour: 21.50 +- 1.82
+Playability: -2.06 +- 1.73
+FunContent: 22.64 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 42.07 +- 2.58
+
+----------------Total steps: 767500----------------
+Time passed: 85680s
+fps: 9.77
+FunBehaviour: 21.36 +- 1.83
+Playability: -2.14 +- 2.11
+FunContent: 22.87 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 42.09 +- 2.93
+
+----------------Total steps: 770000----------------
+Time passed: 85947s
+fps: 9.39
+FunBehaviour: 21.57 +- 2.10
+Playability: -2.09 +- 1.97
+FunContent: 22.67 +- 0.97
+EpLength: 25.00 +- 0.00
+TotalScore: 42.15 +- 3.18
+
+----------------Total steps: 772500----------------
+Time passed: 86211s
+fps: 9.46
+FunBehaviour: 21.65 +- 1.70
+Playability: -2.07 +- 2.19
+FunContent: 22.88 +- 0.71
+EpLength: 25.00 +- 0.00
+TotalScore: 42.46 +- 3.19
+
+----------------Total steps: 775000----------------
+Time passed: 86469s
+fps: 9.69
+FunBehaviour: 21.52 +- 1.80
+Playability: -2.17 +- 2.19
+FunContent: 22.88 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 42.23 +- 3.30
+
+----------------Total steps: 777500----------------
+Time passed: 86738s
+fps: 9.29
+FunBehaviour: 21.98 +- 1.46
+Playability: -2.17 +- 2.37
+FunContent: 22.90 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 42.70 +- 3.06
+
+----------------Total steps: 780000----------------
+Time passed: 87000s
+fps: 9.54
+FunBehaviour: 21.86 +- 1.64
+Playability: -2.36 +- 2.54
+FunContent: 22.77 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 42.27 +- 3.63
+
+----------------Total steps: 782500----------------
+Time passed: 87260s
+fps: 9.6
+FunBehaviour: 21.14 +- 2.15
+Playability: -2.40 +- 2.42
+FunContent: 22.95 +- 0.60
+EpLength: 25.00 +- 0.00
+TotalScore: 41.70 +- 3.19
+
+----------------Total steps: 785000----------------
+Time passed: 87523s
+fps: 9.53
+FunBehaviour: 21.73 +- 1.77
+Playability: -2.46 +- 2.34
+FunContent: 22.64 +- 1.01
+EpLength: 25.00 +- 0.00
+TotalScore: 41.91 +- 3.18
+
+----------------Total steps: 787500----------------
+Time passed: 87783s
+fps: 9.61
+FunBehaviour: 21.60 +- 1.91
+Playability: -2.70 +- 2.55
+FunContent: 22.79 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 41.70 +- 3.45
+
+----------------Total steps: 790000----------------
+Time passed: 88052s
+fps: 9.28
+FunBehaviour: 21.50 +- 1.72
+Playability: -3.04 +- 2.83
+FunContent: 22.71 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 41.17 +- 3.65
+
+----------------Total steps: 792500----------------
+Time passed: 88313s
+fps: 9.59
+FunBehaviour: 21.33 +- 1.75
+Playability: -2.17 +- 2.21
+FunContent: 22.95 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.30
+
+----------------Total steps: 795000----------------
+Time passed: 88572s
+fps: 9.65
+FunBehaviour: 21.39 +- 2.10
+Playability: -2.23 +- 2.24
+FunContent: 22.59 +- 1.35
+EpLength: 25.00 +- 0.00
+TotalScore: 41.75 +- 3.46
+
+----------------Total steps: 797500----------------
+Time passed: 88833s
+fps: 9.59
+FunBehaviour: 21.38 +- 1.81
+Playability: -2.41 +- 2.23
+FunContent: 22.75 +- 0.76
+EpLength: 25.00 +- 0.00
+TotalScore: 41.72 +- 3.22
+
+----------------Total steps: 800000----------------
+Time passed: 89088s
+fps: 9.78
+FunBehaviour: 21.53 +- 1.83
+Playability: -2.20 +- 2.09
+FunContent: 22.86 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 42.18 +- 2.98
+
+----------------Total steps: 802500----------------
+Time passed: 89348s
+fps: 9.62
+FunBehaviour: 21.65 +- 1.53
+Playability: -2.28 +- 2.25
+FunContent: 22.74 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 42.10 +- 2.93
+
+----------------Total steps: 805000----------------
+Time passed: 89611s
+fps: 9.5
+FunBehaviour: 21.39 +- 1.87
+Playability: -2.40 +- 2.43
+FunContent: 22.99 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 41.98 +- 3.47
+
+----------------Total steps: 807500----------------
+Time passed: 89868s
+fps: 9.74
+FunBehaviour: 21.32 +- 1.66
+Playability: -2.33 +- 2.18
+FunContent: 22.75 +- 1.08
+EpLength: 25.00 +- 0.00
+TotalScore: 41.75 +- 3.28
+
+----------------Total steps: 810000----------------
+Time passed: 90123s
+fps: 9.79
+FunBehaviour: 20.85 +- 2.25
+Playability: -2.20 +- 2.17
+FunContent: 22.85 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.50 +- 3.50
+
+----------------Total steps: 812500----------------
+Time passed: 90387s
+fps: 9.48
+FunBehaviour: 21.77 +- 1.59
+Playability: -2.06 +- 2.00
+FunContent: 22.89 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 42.60 +- 2.91
+
+----------------Total steps: 815000----------------
+Time passed: 90642s
+fps: 9.79
+FunBehaviour: 21.18 +- 1.72
+Playability: -2.25 +- 2.10
+FunContent: 22.78 +- 1.05
+EpLength: 25.00 +- 0.00
+TotalScore: 41.71 +- 3.27
+
+----------------Total steps: 817500----------------
+Time passed: 90907s
+fps: 9.45
+FunBehaviour: 21.27 +- 2.10
+Playability: -2.54 +- 2.45
+FunContent: 22.86 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 41.59 +- 3.38
+
+----------------Total steps: 820000----------------
+Time passed: 91160s
+fps: 9.89
+FunBehaviour: 21.75 +- 1.85
+Playability: -2.39 +- 2.17
+FunContent: 23.02 +- 0.56
+EpLength: 25.00 +- 0.00
+TotalScore: 42.38 +- 3.10
+
+----------------Total steps: 822500----------------
+Time passed: 91416s
+fps: 9.77
+FunBehaviour: 21.62 +- 1.94
+Playability: -2.34 +- 2.16
+FunContent: 22.90 +- 1.02
+EpLength: 25.00 +- 0.00
+TotalScore: 42.18 +- 3.43
+
+----------------Total steps: 825000----------------
+Time passed: 91666s
+fps: 9.99
+FunBehaviour: 21.66 +- 1.88
+Playability: -2.27 +- 2.29
+FunContent: 22.72 +- 0.99
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.53
+
+----------------Total steps: 827500----------------
+Time passed: 91924s
+fps: 9.7
+FunBehaviour: 21.40 +- 2.09
+Playability: -2.09 +- 2.10
+FunContent: 22.89 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 42.20 +- 3.04
+
+----------------Total steps: 830000----------------
+Time passed: 92185s
+fps: 9.56
+FunBehaviour: 21.49 +- 1.94
+Playability: -2.07 +- 2.62
+FunContent: 23.03 +- 0.59
+EpLength: 25.00 +- 0.00
+TotalScore: 42.45 +- 3.69
+
+----------------Total steps: 832500----------------
+Time passed: 92452s
+fps: 9.35
+FunBehaviour: 21.53 +- 2.12
+Playability: -2.72 +- 2.72
+FunContent: 22.62 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 41.44 +- 3.82
+
+----------------Total steps: 835000----------------
+Time passed: 92714s
+fps: 9.56
+FunBehaviour: 21.46 +- 2.03
+Playability: -2.37 +- 2.13
+FunContent: 22.81 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 41.91 +- 3.52
+
+----------------Total steps: 837500----------------
+Time passed: 92977s
+fps: 9.5
+FunBehaviour: 21.67 +- 1.88
+Playability: -2.52 +- 2.36
+FunContent: 22.75 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 41.90 +- 3.26
+
+----------------Total steps: 840000----------------
+Time passed: 93239s
+fps: 9.55
+FunBehaviour: 21.58 +- 2.05
+Playability: -2.86 +- 2.60
+FunContent: 22.74 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 41.47 +- 3.79
+
+----------------Total steps: 842500----------------
+Time passed: 93496s
+fps: 9.72
+FunBehaviour: 21.66 +- 1.72
+Playability: -1.90 +- 1.95
+FunContent: 22.95 +- 0.60
+EpLength: 25.00 +- 0.00
+TotalScore: 42.71 +- 2.77
+
+----------------Total steps: 845000----------------
+Time passed: 93751s
+fps: 9.8
+FunBehaviour: 21.50 +- 2.06
+Playability: -1.74 +- 2.08
+FunContent: 22.76 +- 0.77
+EpLength: 25.00 +- 0.00
+TotalScore: 42.52 +- 3.66
+
+----------------Total steps: 847500----------------
+Time passed: 94009s
+fps: 9.7
+FunBehaviour: 21.69 +- 1.86
+Playability: -1.92 +- 2.01
+FunContent: 22.88 +- 0.94
+EpLength: 25.00 +- 0.00
+TotalScore: 42.65 +- 3.32
+
+----------------Total steps: 850000----------------
+Time passed: 94269s
+fps: 9.59
+FunBehaviour: 21.53 +- 1.63
+Playability: -2.21 +- 2.37
+FunContent: 22.79 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.00
+
+----------------Total steps: 852500----------------
+Time passed: 94524s
+fps: 9.8
+FunBehaviour: 21.43 +- 1.72
+Playability: -2.32 +- 2.06
+FunContent: 22.68 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 41.79 +- 3.02
+
+----------------Total steps: 855000----------------
+Time passed: 94785s
+fps: 9.58
+FunBehaviour: 21.55 +- 1.69
+Playability: -2.35 +- 2.39
+FunContent: 22.76 +- 1.02
+EpLength: 25.00 +- 0.00
+TotalScore: 41.95 +- 3.40
+
+----------------Total steps: 857500----------------
+Time passed: 95041s
+fps: 9.8
+FunBehaviour: 21.59 +- 1.82
+Playability: -2.26 +- 2.13
+FunContent: 22.99 +- 0.55
+EpLength: 25.00 +- 0.00
+TotalScore: 42.32 +- 2.96
+
+----------------Total steps: 860000----------------
+Time passed: 95303s
+fps: 9.53
+FunBehaviour: 21.49 +- 1.69
+Playability: -2.49 +- 2.39
+FunContent: 22.83 +- 1.09
+EpLength: 25.00 +- 0.00
+TotalScore: 41.83 +- 3.25
+
+----------------Total steps: 862500----------------
+Time passed: 95562s
+fps: 9.65
+FunBehaviour: 21.84 +- 1.71
+Playability: -2.11 +- 2.38
+FunContent: 22.78 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 42.51 +- 3.28
+
+----------------Total steps: 865000----------------
+Time passed: 95825s
+fps: 9.5
+FunBehaviour: 21.73 +- 2.14
+Playability: -2.47 +- 2.39
+FunContent: 22.77 +- 0.75
+EpLength: 25.00 +- 0.00
+TotalScore: 42.03 +- 3.31
+
+----------------Total steps: 867500----------------
+Time passed: 96081s
+fps: 9.77
+FunBehaviour: 21.37 +- 1.89
+Playability: -1.90 +- 1.92
+FunContent: 22.64 +- 1.06
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.16
+
+----------------Total steps: 870000----------------
+Time passed: 96346s
+fps: 9.44
+FunBehaviour: 21.42 +- 2.15
+Playability: -2.15 +- 2.22
+FunContent: 22.94 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 42.21 +- 3.43
+
+----------------Total steps: 872500----------------
+Time passed: 96613s
+fps: 9.35
+FunBehaviour: 21.94 +- 1.61
+Playability: -2.40 +- 2.49
+FunContent: 22.94 +- 0.76
+EpLength: 25.00 +- 0.00
+TotalScore: 42.48 +- 3.30
+
+----------------Total steps: 875000----------------
+Time passed: 96870s
+fps: 9.75
+FunBehaviour: 21.52 +- 1.83
+Playability: -2.36 +- 2.13
+FunContent: 22.77 +- 1.20
+EpLength: 25.00 +- 0.00
+TotalScore: 41.93 +- 3.22
+
+----------------Total steps: 877500----------------
+Time passed: 97130s
+fps: 9.6
+FunBehaviour: 21.42 +- 1.83
+Playability: -2.52 +- 2.39
+FunContent: 22.92 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 41.82 +- 3.45
+
+----------------Total steps: 880000----------------
+Time passed: 97391s
+fps: 9.59
+FunBehaviour: 21.77 +- 1.75
+Playability: -2.14 +- 2.26
+FunContent: 22.97 +- 0.90
+EpLength: 25.00 +- 0.00
+TotalScore: 42.60 +- 3.26
+
+----------------Total steps: 882500----------------
+Time passed: 97653s
+fps: 9.52
+FunBehaviour: 21.61 +- 1.88
+Playability: -2.55 +- 2.58
+FunContent: 22.92 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 41.98 +- 3.36
+
+----------------Total steps: 885000----------------
+Time passed: 97913s
+fps: 9.63
+FunBehaviour: 21.61 +- 2.03
+Playability: -1.93 +- 2.27
+FunContent: 22.93 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 42.61 +- 3.45
+
+----------------Total steps: 887500----------------
+Time passed: 98176s
+fps: 9.53
+FunBehaviour: 21.47 +- 2.18
+Playability: -2.17 +- 2.19
+FunContent: 22.89 +- 0.71
+EpLength: 25.00 +- 0.00
+TotalScore: 42.18 +- 3.65
+
+----------------Total steps: 890000----------------
+Time passed: 98438s
+fps: 9.52
+FunBehaviour: 21.48 +- 1.99
+Playability: -2.13 +- 2.52
+FunContent: 22.89 +- 0.67
+EpLength: 25.00 +- 0.00
+TotalScore: 42.24 +- 3.24
+
+----------------Total steps: 892500----------------
+Time passed: 98703s
+fps: 9.43
+FunBehaviour: 21.81 +- 1.66
+Playability: -2.34 +- 2.83
+FunContent: 22.89 +- 1.03
+EpLength: 25.00 +- 0.00
+TotalScore: 42.36 +- 3.66
+
+----------------Total steps: 895000----------------
+Time passed: 98969s
+fps: 9.42
+FunBehaviour: 21.64 +- 1.84
+Playability: -3.06 +- 2.66
+FunContent: 22.88 +- 1.11
+EpLength: 25.00 +- 0.00
+TotalScore: 41.46 +- 3.51
+
+----------------Total steps: 897500----------------
+Time passed: 99231s
+fps: 9.53
+FunBehaviour: 21.57 +- 1.88
+Playability: -2.40 +- 2.20
+FunContent: 22.81 +- 0.93
+EpLength: 25.00 +- 0.00
+TotalScore: 41.97 +- 3.10
+
+----------------Total steps: 900000----------------
+Time passed: 99492s
+fps: 9.58
+FunBehaviour: 21.49 +- 1.92
+Playability: -2.56 +- 2.40
+FunContent: 23.01 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 41.94 +- 3.48
+
+----------------Total steps: 902500----------------
+Time passed: 99754s
+fps: 9.56
+FunBehaviour: 21.44 +- 2.23
+Playability: -2.43 +- 2.38
+FunContent: 22.92 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 41.93 +- 3.63
+
+----------------Total steps: 905000----------------
+Time passed: 100015s
+fps: 9.58
+FunBehaviour: 21.26 +- 1.98
+Playability: -2.53 +- 2.26
+FunContent: 22.92 +- 0.82
+EpLength: 25.00 +- 0.00
+TotalScore: 41.65 +- 3.25
+
+----------------Total steps: 907500----------------
+Time passed: 100274s
+fps: 9.63
+FunBehaviour: 21.82 +- 1.75
+Playability: -2.05 +- 2.27
+FunContent: 22.95 +- 0.78
+EpLength: 25.00 +- 0.00
+TotalScore: 42.72 +- 3.20
+
+----------------Total steps: 910000----------------
+Time passed: 100533s
+fps: 9.67
+FunBehaviour: 21.48 +- 2.05
+Playability: -2.39 +- 2.24
+FunContent: 22.74 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 41.84 +- 3.52
+
+----------------Total steps: 912500----------------
+Time passed: 100801s
+fps: 9.31
+FunBehaviour: 21.56 +- 1.77
+Playability: -2.27 +- 2.19
+FunContent: 22.98 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 42.27 +- 2.89
+
+----------------Total steps: 915000----------------
+Time passed: 101060s
+fps: 9.65
+FunBehaviour: 21.27 +- 2.19
+Playability: -2.21 +- 2.07
+FunContent: 22.94 +- 0.87
+EpLength: 25.00 +- 0.00
+TotalScore: 42.00 +- 3.25
+
+----------------Total steps: 917500----------------
+Time passed: 101316s
+fps: 9.77
+FunBehaviour: 21.59 +- 1.86
+Playability: -2.02 +- 2.07
+FunContent: 23.07 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 42.64 +- 3.01
+
+----------------Total steps: 920000----------------
+Time passed: 101574s
+fps: 9.69
+FunBehaviour: 21.54 +- 1.98
+Playability: -2.10 +- 1.87
+FunContent: 22.95 +- 0.86
+EpLength: 25.00 +- 0.00
+TotalScore: 42.39 +- 3.14
+
+----------------Total steps: 922500----------------
+Time passed: 101833s
+fps: 9.66
+FunBehaviour: 21.73 +- 1.78
+Playability: -1.71 +- 2.08
+FunContent: 22.83 +- 0.84
+EpLength: 25.00 +- 0.00
+TotalScore: 42.84 +- 3.00
+
+----------------Total steps: 925000----------------
+Time passed: 102090s
+fps: 9.74
+FunBehaviour: 21.94 +- 1.71
+Playability: -1.94 +- 1.72
+FunContent: 22.90 +- 0.79
+EpLength: 25.00 +- 0.00
+TotalScore: 42.90 +- 2.85
+
+----------------Total steps: 927500----------------
+Time passed: 102351s
+fps: 9.56
+FunBehaviour: 21.53 +- 1.61
+Playability: -2.25 +- 2.21
+FunContent: 23.05 +- 0.74
+EpLength: 25.00 +- 0.00
+TotalScore: 42.33 +- 2.67
+
+----------------Total steps: 930000----------------
+Time passed: 102606s
+fps: 9.83
+FunBehaviour: 21.67 +- 1.71
+Playability: -1.90 +- 2.04
+FunContent: 23.01 +- 0.63
+EpLength: 25.00 +- 0.00
+TotalScore: 42.78 +- 3.03
+
+----------------Total steps: 932500----------------
+Time passed: 102863s
+fps: 9.7
+FunBehaviour: 21.38 +- 1.95
+Playability: -2.20 +- 1.67
+FunContent: 22.89 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 42.07 +- 3.00
+
+----------------Total steps: 935000----------------
+Time passed: 103120s
+fps: 9.72
+FunBehaviour: 21.35 +- 1.94
+Playability: -2.31 +- 2.39
+FunContent: 22.81 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 41.85 +- 3.34
+
+----------------Total steps: 937500----------------
+Time passed: 103377s
+fps: 9.75
+FunBehaviour: 21.55 +- 1.82
+Playability: -2.04 +- 1.86
+FunContent: 22.87 +- 0.94
+EpLength: 25.00 +- 0.00
+TotalScore: 42.38 +- 2.84
+
+----------------Total steps: 940000----------------
+Time passed: 103641s
+fps: 9.47
+FunBehaviour: 21.56 +- 1.83
+Playability: -2.41 +- 2.22
+FunContent: 22.88 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 42.03 +- 3.06
+
+----------------Total steps: 942500----------------
+Time passed: 103900s
+fps: 9.64
+FunBehaviour: 21.47 +- 1.97
+Playability: -2.23 +- 2.39
+FunContent: 22.87 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.48
+
+----------------Total steps: 945000----------------
+Time passed: 104155s
+fps: 9.81
+FunBehaviour: 21.66 +- 1.64
+Playability: -2.11 +- 2.07
+FunContent: 22.79 +- 0.98
+EpLength: 25.00 +- 0.00
+TotalScore: 42.34 +- 2.99
+
+----------------Total steps: 947500----------------
+Time passed: 104416s
+fps: 9.56
+FunBehaviour: 21.44 +- 1.89
+Playability: -2.41 +- 2.49
+FunContent: 22.81 +- 0.74
+EpLength: 25.00 +- 0.00
+TotalScore: 41.85 +- 3.28
+
+----------------Total steps: 950000----------------
+Time passed: 104671s
+fps: 9.83
+FunBehaviour: 21.88 +- 1.61
+Playability: -1.97 +- 2.13
+FunContent: 22.84 +- 0.83
+EpLength: 25.00 +- 0.00
+TotalScore: 42.75 +- 2.96
+
+----------------Total steps: 952500----------------
+Time passed: 104926s
+fps: 9.8
+FunBehaviour: 21.35 +- 2.48
+Playability: -2.20 +- 1.98
+FunContent: 22.88 +- 0.89
+EpLength: 25.00 +- 0.00
+TotalScore: 42.03 +- 3.11
+
+----------------Total steps: 955000----------------
+Time passed: 105182s
+fps: 9.75
+FunBehaviour: 21.50 +- 2.14
+Playability: -2.34 +- 2.10
+FunContent: 22.88 +- 0.66
+EpLength: 25.00 +- 0.00
+TotalScore: 42.04 +- 3.19
+
+----------------Total steps: 957500----------------
+Time passed: 105441s
+fps: 9.67
+FunBehaviour: 21.14 +- 2.17
+Playability: -2.29 +- 2.02
+FunContent: 23.09 +- 0.49
+EpLength: 25.00 +- 0.00
+TotalScore: 41.94 +- 3.60
+
+----------------Total steps: 960000----------------
+Time passed: 105698s
+fps: 9.73
+FunBehaviour: 21.71 +- 2.09
+Playability: -2.48 +- 2.20
+FunContent: 23.01 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 42.24 +- 3.24
+
+----------------Total steps: 962500----------------
+Time passed: 105953s
+fps: 9.79
+FunBehaviour: 21.27 +- 1.81
+Playability: -2.37 +- 2.26
+FunContent: 23.13 +- 0.70
+EpLength: 25.00 +- 0.00
+TotalScore: 42.03 +- 3.17
+
+----------------Total steps: 965000----------------
+Time passed: 106215s
+fps: 9.53
+FunBehaviour: 21.60 +- 1.81
+Playability: -2.15 +- 2.50
+FunContent: 22.90 +- 0.88
+EpLength: 25.00 +- 0.00
+TotalScore: 42.35 +- 3.15
+
+----------------Total steps: 967500----------------
+Time passed: 106476s
+fps: 9.58
+FunBehaviour: 21.50 +- 1.67
+Playability: -2.29 +- 2.60
+FunContent: 22.93 +- 0.91
+EpLength: 25.00 +- 0.00
+TotalScore: 42.14 +- 3.38
+
+----------------Total steps: 970000----------------
+Time passed: 106730s
+fps: 9.88
+FunBehaviour: 21.52 +- 1.65
+Playability: -2.27 +- 1.96
+FunContent: 22.94 +- 0.85
+EpLength: 25.00 +- 0.00
+TotalScore: 42.19 +- 2.83
+
+----------------Total steps: 972500----------------
+Time passed: 106995s
+fps: 9.42
+FunBehaviour: 21.60 +- 1.87
+Playability: -2.13 +- 2.16
+FunContent: 22.74 +- 1.12
+EpLength: 25.00 +- 0.00
+TotalScore: 42.21 +- 3.51
+
+----------------Total steps: 975000----------------
+Time passed: 107249s
+fps: 9.83
+FunBehaviour: 21.44 +- 2.04
+Playability: -2.55 +- 2.25
+FunContent: 22.93 +- 0.72
+EpLength: 25.00 +- 0.00
+TotalScore: 41.82 +- 3.23
+
+----------------Total steps: 977500----------------
+Time passed: 107508s
+fps: 9.66
+FunBehaviour: 21.78 +- 1.46
+Playability: -2.30 +- 2.27
+FunContent: 23.03 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 42.51 +- 2.96
+
+----------------Total steps: 980000----------------
+Time passed: 107772s
+fps: 9.47
+FunBehaviour: 21.68 +- 1.75
+Playability: -2.35 +- 2.38
+FunContent: 23.01 +- 0.61
+EpLength: 25.00 +- 0.00
+TotalScore: 42.34 +- 3.23
+
+----------------Total steps: 982500----------------
+Time passed: 108033s
+fps: 9.57
+FunBehaviour: 21.45 +- 1.76
+Playability: -2.36 +- 2.13
+FunContent: 23.02 +- 0.71
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 2.94
+
+----------------Total steps: 985000----------------
+Time passed: 108303s
+fps: 9.28
+FunBehaviour: 21.72 +- 1.69
+Playability: -2.38 +- 2.19
+FunContent: 22.77 +- 1.16
+EpLength: 25.00 +- 0.00
+TotalScore: 42.11 +- 3.05
+
+----------------Total steps: 987500----------------
+Time passed: 108555s
+fps: 9.89
+FunBehaviour: 21.33 +- 1.93
+Playability: -1.80 +- 1.58
+FunContent: 22.72 +- 1.00
+EpLength: 25.00 +- 0.00
+TotalScore: 42.25 +- 2.80
+
+----------------Total steps: 990000----------------
+Time passed: 108812s
+fps: 9.72
+FunBehaviour: 21.57 +- 1.83
+Playability: -2.04 +- 1.93
+FunContent: 22.93 +- 0.80
+EpLength: 25.00 +- 0.00
+TotalScore: 42.46 +- 2.93
+
+----------------Total steps: 992500----------------
+Time passed: 109077s
+fps: 9.45
+FunBehaviour: 21.55 +- 2.09
+Playability: -2.31 +- 2.03
+FunContent: 22.91 +- 1.02
+EpLength: 25.00 +- 0.00
+TotalScore: 42.15 +- 3.38
+
+----------------Total steps: 995000----------------
+Time passed: 109335s
+fps: 9.7
+FunBehaviour: 21.65 +- 1.93
+Playability: -2.00 +- 2.06
+FunContent: 23.07 +- 0.68
+EpLength: 25.00 +- 0.00
+TotalScore: 42.71 +- 3.34
+
+----------------Total steps: 997500----------------
+Time passed: 109596s
+fps: 9.58
+FunBehaviour: 21.39 +- 1.82
+Playability: -2.26 +- 2.35
+FunContent: 23.05 +- 0.97
+EpLength: 25.00 +- 0.00
+TotalScore: 42.18 +- 3.17
+
+----------------Total steps: 1000000----------------
+Time passed: 109850s
+fps: 9.82
+FunBehaviour: 21.27 +- 1.94
+Playability: -2.34 +- 2.16
+FunContent: 22.97 +- 0.99
+EpLength: 25.00 +- 0.00
+TotalScore: 41.91 +- 3.33
+
