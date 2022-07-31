@@ -16,7 +16,7 @@ def trace_div(trace1, trace2, w=10):
     t1, t2 = np.array(trace1) / ts, np.array(trace2) / ts
     dist_metric = (lambda x, y: np.linalg.norm(x - y))
     dtw_val, *_ = dtw(t1, t2, dist_metric, w=max(w, abs(len(t1) - len(t2))))
-    return dtw_val / (MarioLevel.tex_size * MarioLevel.default_seg_width)
+    return dtw_val / MarioLevel.default_seg_width
 
 def tile_pattern_js_div(seg1: MarioLevel, seg2: MarioLevel, w=2):
     counts1 = seg1.tile_pattern_counts(w)

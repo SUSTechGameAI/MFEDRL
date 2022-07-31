@@ -202,7 +202,7 @@ class MarioProxy:
             '#kills-by-stomp': int(jresult.getKillsByStomp()),
             '#kills-by-shell': int(jresult.getKillsByShell()),
             'trace': [
-                [float(item.getMarioX()), float(item.getMarioY())]
+                [float(item.getMarioX()) / MarioLevel.tex_size, float(item.getMarioY()) / MarioLevel.tex_size]
                 for item in jresult.getAgentEvents()
             ]
         }
