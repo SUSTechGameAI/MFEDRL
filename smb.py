@@ -25,11 +25,6 @@ class MarioLevel:
     tex_size = 16
     height = 14
     default_seg_width = 28
-    # mapping = {
-    #     'i-c': ('X', 'S', '-', '?', 'Q', 'E', '<', '>', '[', ']', 'o', 'B', 'b'),
-    #     'c-i': {'X': 0, 'S': 1, '-': 2, '?': 3, 'Q': 4, 'E': 5, '<': 6,
-    #     '>': 7, '[': 8, ']': 9, 'o': 10, 'B': 11, 'b': 12}
-    # }
     mapping = {
         'i-c': ('X', 'S', '-', '?', 'Q', 'E', '<', '>', '[', ']', 'o'),
         'c-i': {'X': 0, 'S': 1, '-': 2, '?': 3, 'Q': 4, 'E': 5, '<': 6,
@@ -202,7 +197,7 @@ class MarioProxy:
             '#kills-by-stomp': int(jresult.getKillsByStomp()),
             '#kills-by-shell': int(jresult.getKillsByShell()),
             'trace': [
-                [float(item.getMarioX()) / MarioLevel.tex_size, float(item.getMarioY()) / MarioLevel.tex_size]
+                [float(item.getMarioX()), float(item.getMarioY())]
                 for item in jresult.getAgentEvents()
             ]
         }
