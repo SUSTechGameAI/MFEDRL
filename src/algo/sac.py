@@ -192,6 +192,9 @@ class OffRewSAC_Trainer:
         while self.steps < self.step_budget:
             actions = model.make_decision(obs)
             next_obs, _, dones, infos = self.env.step(actions)
+            for i in range(len(next_obs)):
+                if dones[i]:
+                    next_obs[i] = infos[i]['terminal_observation']
             for i, (ob, action, next_ob) in enumerate(zip(obs, actions, next_obs)):
                 obs_buffer[i].append(ob)
                 action_buffer[i].append(action)
