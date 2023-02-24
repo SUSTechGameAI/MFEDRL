@@ -55,7 +55,7 @@ class InfoCollector:
             msg += 'TotalScore: %.2f +- %.2f\n' % (values.mean(), values.std())
 
             if 'file' in self.log_targets:
-                with open(f'{self.path}/mylog.txt', 'a') as f:
+                with open(f'{self.path}/mylog.txt', 'ztraces') as f:
                     f.write(msg + '\n')
             if 'std' in self.log_targets:
                 print(msg)

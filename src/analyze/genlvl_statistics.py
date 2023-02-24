@@ -3,16 +3,17 @@
   @Author : Ziqi Wang
   @File : genlvl_statistics.py
 """
+import sys
+sys.path.append('../..')
+
 import json
 import os
-
 import numpy as np
-
-from smb import MarioLevel
+from smb import MarioLevel, save_batch
 from src.designer.use_designer import Designer
 from src.environment.env import make_vec_offrew_env
 from src.utils.filesys import get_path
-from src.environment.rfuncs import default
+from src.environment.env_cfgs import history_len
 
 
 def generate_levels(src_path, additional_folder='', save=True, n=1, l=25, n_parallel=1):
@@ -73,4 +74,10 @@ def test(src_path, rfunc, n=30, l=25, n_parallel=6):
 
 
 if __name__ == '__main__':
-    test('exp_data/main/killer', default, n=100)
+    # test('exp_data/main/killer', default, n=100)
+    for gm in ('07', '08', '09', '099'):
+        lvls = generate_levels(
+            f'exp_data/recurrent_transition/n{history_len}/gm{gm}',
+            save=False, n=1000, l=50, n_parallel=50
+        )
+        save_batch(lvls, f'exp_analysis/endless_gen/data2/gm{gm}n{history_len}')

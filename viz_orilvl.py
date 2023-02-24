@@ -4,7 +4,6 @@
   @File : viz_orilvl.py 
 """
 import json
-
 from smb import traverse_level_files
 from src.environment.reward_function import FunContent, FunBehaviour
 from src.utils.filesys import get_path

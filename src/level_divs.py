@@ -26,3 +26,8 @@ def tile_pattern_js_div(seg1: MarioLevel, seg2: MarioLevel, w=2):
     q = np.array([counts2.setdefault(key, 0) for key in all_keys])
     return jsdiv(p, q)
 
+def tile_normalised_hamming(seg1: MarioLevel, seg2: MarioLevel):
+    diff_entries, _ = np.where(seg1.content != seg2.content)
+    size = seg1.h * seg2.w
+    return len(diff_entries) / size
+    pass

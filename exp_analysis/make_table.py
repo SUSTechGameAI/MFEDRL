@@ -5,9 +5,7 @@
 """
 
 import json
-
 import numpy as np
-
 from src.utils.filesys import get_path
 
 

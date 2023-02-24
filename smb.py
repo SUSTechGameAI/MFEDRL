@@ -108,6 +108,10 @@ class MarioLevel:
         C = (self.h - w + 1) * (self.w - w + 1)
         return {key: val / C for key, val in counts.items()}
 
+    def to_segs(self):
+        W = MarioLevel.default_seg_width
+        return [self[:, s:s+W] for s in range(0, self.w, W)]
+
     def __getattr__(self, item):
         if item == 'shape':
             return self.content.shape
@@ -216,8 +220,8 @@ class MarioProxy:
         render: bool=False
     ) -> Dict:
         """
-        Run simulation with an agent for a given level
-        :param level: if type is str, must be path of a valid level file.
+        Run simulation with an agent for ztraces given level
+        :param level: if type is str, must be path of ztraces valid level file.
         :param agent: type of the agent.
         :param render: render or not.
         :return: dictionary of the results.
@@ -287,6 +291,21 @@ class MarioProxy:
             s = e
         return res
 
+
+def save_batch(lvls, fname):
+    contents = [str(lvl).strip() for lvl in lvls]
+    content = '\n;\n'.join(contents)
+    if len(fname) <= 5 or fname[-5:] != '.smblvs':
+        fname += '.smblvs'
+    with open(get_path(fname), 'w') as f:
+        f.write(content)
+    pass
+
+def load_batch(fname):
+    with open(get_path(fname), 'r') as f:
+        content = f.read()
+    return [MarioLevel(c) for c in content.split('\n;\n')]
+
 def level_sum(lvls) -> MarioLevel:
     if type(lvls[0]) == MarioLevel:
         concated_content = np.concatenate([l.content for l in lvls], axis=1)
@@ -316,4 +335,5 @@ def traverse_batched_level_files(path):
 if __name__ == '__main__':
     lvl = MarioLevel.from_file('levels/original/mario-1-1.smblv')
     MarioProxy().play_game(lvl)
+    pass
 

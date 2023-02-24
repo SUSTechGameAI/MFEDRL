@@ -35,7 +35,7 @@ if __name__ == '__main__':
     parser.add_argument('--generator_path', type=str, default='models/generator.pth')
     parser.add_argument('--device', type=str, default='cuda:0')
     parser.add_argument('--n_samples', type=int, default=1000)
-    parser.add_argument('--n', type=int, default=4)
+    parser.add_argument('--n_init', type=int, default=4)
     parser.add_argument('--space_size', type=float, default=1.)
     # parser.add_argument('--parallel', type=int, default=6)
     # parser.add_argument('--res_path', type=str, default='exp_data/starts100.json')

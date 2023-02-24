@@ -51,7 +51,7 @@ class SAC_Model:
         self.update_tar_nets()
 
     def process_batch(self, batch):
-        # s, a, r, sp, d = batch
+        # s, ztraces, r, sp, d = batch
         s, _, r, sp, _ = batch
         with torch.no_grad():
             alpha = torch.exp(self.log_alpha)

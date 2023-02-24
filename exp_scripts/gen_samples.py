@@ -1,7 +1,7 @@
 """
   @Time : 2022/3/14 16:21 
   @Author : Ziqi Wang
-  @File : gen_samples.py 
+  @File : generate.py
 """
 import json
 import sys
@@ -17,10 +17,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--src_path', type=str)
     parser.add_argument('--folder', type=str, default='samples')
-    parser.add_argument('--n', type=int, default=30)
+    parser.add_argument('--n_init', type=int, default=100)
     parser.add_argument('--n_parallel', type=int, default=6)
-    parser.add_argument('--l', type=int, default=25)
-    parser.add_argument('--save_batch', type=int, default=1)
+    parser.add_argument('--l', type=int, default=50)
+    parser.add_argument('--save_batch', type=int, default=100)
 
     args = parser.parse_args()
 

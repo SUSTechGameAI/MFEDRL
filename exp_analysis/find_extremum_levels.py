@@ -26,7 +26,7 @@ def collect_lvls(path):
 
 if __name__ == '__main__':
     gc, gb, n = 0.1, 0.25, 4
-    # l = n+1
+    # l = n_init+1
     lvls, simlt_res, latvecs = collect_lvls('exp_data/rand_playable_lvls2')
     full_traces = [item['full_trace'] for item in simlt_res]
 

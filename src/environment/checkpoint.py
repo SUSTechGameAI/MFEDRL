@@ -10,7 +10,7 @@ from stable_baselines3.common.callbacks import BaseCallback
 
 class MyCheckpointCallback(BaseCallback):
     """
-    Callback for saving a model every ``save_freq`` calls
+    Callback for saving ztraces model every ``save_freq`` calls
     to ``env.step()``.
 
     .. warning::

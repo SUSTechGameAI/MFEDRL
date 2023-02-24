@@ -27,7 +27,7 @@ if __name__ == '__main__':
     parser.add_argument('--generator_path', type=str, default='models/generator.pth')
     parser.add_argument('--device', type=str, default='cuda:0')
     parser.add_argument('--folder', type=str, default='samples')
-    parser.add_argument('--n', type=int, default=200)
+    parser.add_argument('--n_init', type=int, default=200)
     parser.add_argument('--l', type=int, default=5)
     parser.add_argument('--batch', type=int, default=128)
     parser.add_argument('--file_batch', type=int, default=100)
@@ -66,6 +66,6 @@ if __name__ == '__main__':
             f.write(file_content)
 
 
-    # while len(lvls) < args.n:
+    # while len(lvls) < args.n_init:
     #     batch_lvls = generator()
-    # generate_levels(args.src_path, args.folder, n=args.n, l=args.l, n_parallel=args.n_parallel)
+    # generate_levels(args.src_path, args.folder, n_init=args.n_init, l=args.l, n_parallel=args.n_parallel)

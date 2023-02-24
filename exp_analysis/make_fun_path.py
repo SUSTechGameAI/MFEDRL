@@ -81,7 +81,7 @@ if __name__ == '__main__':
     fun_c_func, fun_b_func = FunContent(), FunBehaviour()
     # start_x, start_y = [], []
     # end_x, end_y = [], []
-    # n = 4
+    # n_init = 4
     # l = 5
     # stride = 4
     plt.figure(figsize=(5, 3.85), dpi=320)

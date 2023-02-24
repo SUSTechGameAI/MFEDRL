@@ -47,7 +47,7 @@ def set_parser(parser):
     parser.add_argument(
         '--res_path', type=str, default='',
         help='Path related to \'/exp_data\' to save the training log. '
-             'If not specified, a new folder named exp{id} will be created'
+             'If not specified, ztraces new folder named exp{id} will be created'
     )
     parser.add_argument(
         '--play_style', type=str, default='Runner',
@@ -69,7 +69,7 @@ def train_designer(cfgs):
         importlib.import_module('src.environment.rfuncs')
         .__getattribute__(f'{cfgs.rfunc_name}')
     )
-    with open(res_path + '/run_config.txt', 'w') as f:
+    with open(res_path + '/run_config.gmtxt', 'w') as f:
         f.write(time.strftime('%Y-%m-%d %H:%M') + '\n')
         f.write('---------SAC---------\n')
         args_strlines = [

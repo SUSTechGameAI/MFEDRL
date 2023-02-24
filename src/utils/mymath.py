@@ -31,3 +31,12 @@ def grid_cnt(data, ranges, n_grids=10, normalize=True):
         res /= res.size
     return res
 
+def lpdist_mat(X, Y, p=2):
+    diff = np.abs(np.expand_dims(X, axis=1) - np.expand_dims(Y, axis=0))
+    distance_matrix = np.sum(diff ** p, axis=-1) ** (1 / p)
+    return distance_matrix
+
+if __name__ == '__main__':
+    a = [[1, 2], [2, 3], [3, 4]]
+    b = [[1.5, 2.5], [2.5, 3.5]]
+    print(lpdist_mat(a, b))

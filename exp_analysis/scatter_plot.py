@@ -131,7 +131,7 @@ if __name__ == '__main__':
                 plt.ylabel('$f_b$', size=12, rotation=0.)
                 plt.title(f'gc={gc_val:.3f}, gb={gb_val:.3f}')
                 plt.grid()
-                # if n <= 4:
+                # if n_init <= 4:
                 plt.xlim((-4.5, 1.15))
                 plt.ylim((-4.5, 1.15))
                 # else:
@@ -178,7 +178,7 @@ if __name__ == '__main__':
     #     0.9476561646449732,
     #     # 0.6785450334197067
     # ]
-    # labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
+    # labels = ['ztraces', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
     # for x, y, l in zip(extrem_x, extrem_y, labels):
     #     plt.text(x+0.05, y-0.09, l, color='black', ha='center', va='center', size=12)
     #
@@ -192,7 +192,7 @@ if __name__ == '__main__':
     #         # x3, y3 = both_data['fun_c'], both_data['fun_b']
     #         # x4, y4 = content_data['fun_c'], content_data['fun_b']
     #         # x5, y5 = behaviour_data['fun_c'], behaviour_data['fun_b']
-    #         # print(x3, y3, sep='\n')
+    #         # print(x3, y3, sep='\n_init')
     #         plt.scatter(x1, y1, color='red', alpha=0.16, linewidths=0, s=16)
     #         plt.scatter(x2, y2, color='blue', alpha=0.16, linewidths=0, s=16)
     #

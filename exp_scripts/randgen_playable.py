@@ -34,7 +34,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--generator_path', type=str, default='models/generator.pth')
     parser.add_argument('--device', type=str, default='cuda:0')
-    parser.add_argument('--n', type=int, default=1000)
+    parser.add_argument('--n_init', type=int, default=1000)
     parser.add_argument('--l', type=int, default=5)
     parser.add_argument('--file_batch', type=int, default=100)
     # parser.add_argument('--space_size', type=float, default=1.)

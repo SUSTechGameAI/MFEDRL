@@ -17,8 +17,8 @@ from src.utils.datastruct import RingQueue
 from src.utils.filesys import get_path
 
 
-def generate(designer, start, player=MarioJavaAgents.Runner, k=4.):
-    obs_buffer = RingQueue(4)
+def generate(designer, start, n=4):#, player=MarioJavaAgents.Runner, k=4):
+    obs_buffer = RingQueue(n)
     generator = get_generator()
     simulator = MarioProxy()
     repairer = DivideConquerRepairer()
@@ -29,16 +29,20 @@ def generate(designer, start, player=MarioJavaAgents.Runner, k=4.):
         latvecs.append(np.array(z).astype(np.float32))
 
     # designer = Designer('exp_data/main/both/actor.pth')
-    for i in range(8):
+    for i in range(50):
         obs = np.concatenate(obs_buffer.to_list())
         a = designer.act(obs)
         latvecs.append(a)
         obs_buffer.push(a)
     segs = process_levels(generator(torch.tensor(np.array(latvecs)).view(-1, nz, 1, 1)), True)
     full_lvl = repairer.repair(level_sum(segs))
-    trace = simulator.simulate_long(full_lvl, player, k)['trace']
-    img  = full_lvl.to_img_with_trace(trace, save_path=None)
-    return img.subsurface((5*28*16, 0, 8*28*16, 14*16))
+    s1, s2, s3 = n*28, (n+10)*28, (n+25)*28
+    e1, e2, e3 = s1+112, s2+112, s3+112
+    return full_lvl[:, s1:e1].to_img(None), full_lvl[:, s2:e2].to_img(None), full_lvl[:, s3:e3].to_img(None)
+    # trace = simulator.simulate_long(full_lvl, player, k)['trace']
+    # img  = full_lvl.to_img_with_trace(trace, save_path=None)
+    # return img.subsurface((5*28*16, 0, 8*28*16, 14*16))
+
     # simlt_res = MarioProxy.get_seg_infos(simulator.simulate_long(full_lvl))
     # img = full_lvl.to_img(None)
     # pygame.draw.lines(img, 'black', False, [(x, y - 8) for x, y in trace], 3)
@@ -60,12 +64,12 @@ if __name__ == '__main__':
     # pygame.image.save(res, get_path('exp_data/main/same_start/g/collector.png'))
     # res = generate(Designer('exp_data/main/killer/actor.pth'), start_point, MarioJavaAgents.Killer, 10.)
     # pygame.image.save(res, get_path('exp_data/main/same_start/g/killer.png'))
-    res = generate(Designer('exp_data/main/both/actor.pth'), start_point)
-    pygame.image.save(res, get_path('exp_data/main/same_start/g/both.png'))
-    res = generate(Designer('exp_data/main/content/actor.pth'), start_point)
-    pygame.image.save(res, get_path('exp_data/main/same_start/g/content.png'))
-    res = generate(Designer('exp_data/main/behaviour/actor.pth'), start_point)
-    pygame.image.save(res, get_path('exp_data/main/same_start/g/behaviour.png'))
+    # res = generate(Designer('exp_data/main/both/actor.pth'), start_point)
+    # pygame.image.save(res, get_path('exp_data/main/same_start/g/both.png'))
+    # res = generate(Designer('exp_data/main/content/actor.pth'), start_point)
+    # pygame.image.save(res, get_path('exp_data/main/same_start/g/content.png'))
+    # res = generate(Designer('exp_data/main/behaviour/actor.pth'), start_point)
+    # pygame.image.save(res, get_path('exp_data/main/same_start/g/behaviour.png'))
 
 
     # level, trace = generate(Designer('exp_data/main/both/actor.pth'), start_point)

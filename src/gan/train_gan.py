@@ -68,7 +68,7 @@ def train_gan(cfgs):
                 for p in netD.parameters():
                     p.data.clamp_(-cfgs.weight_clip, cfgs.weight_clip)
                 with torch.no_grad():
-                    # z = torch.rand(n, nz, 1, 1, device=device) * 2 - 1
+                    # z = torch.rand(n_init, nz, 1, 1, device=device) * 2 - 1
                     z = torch.randn(n, nz, 1, 1, device=device)
                     fake = netG(z)
                 l_real = -netD(real).mean()
@@ -80,7 +80,7 @@ def train_gan(cfgs):
                 optD.step()
 
             for _ in range(cfgs.repeatG):
-                # z = torch.rand(n, nz, 1, 1, device=device) * 2 - 1
+                # z = torch.rand(n_init, nz, 1, 1, device=device) * 2 - 1
                 z = torch.randn(n, nz, 1, 1, device=device)
                 fake = netG(z)
                 optG.zero_grad()
