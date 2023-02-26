@@ -1,0 +1,18 @@
+2022-09-28 11:22
+---------SAC---------
+n_envs=50
+eplen=25
+total_steps=1000000
+gamma=0.7
+tar_entropy=-20
+tau=0.005
+update_freq=10
+batch_size=384
+mem_size=500000
+device=cuda:0
+play_style=Runner
+--------------------------------------------------
+Reward Function:
+	1 * FunContent(g=0.1, w=2, n=4),
+	1 * FunBehavior(g=0.25, w=10, n=4),
+	1 * Playability

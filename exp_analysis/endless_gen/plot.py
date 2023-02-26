@@ -59,20 +59,30 @@ def state_half_partition(ztraces, n):
         np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
         for e in range(2*n, n+h)
     ], axis=0)
-    # s0 = np.concatenate([
-    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
-    #     for e in range(n, n+10)
-    # ], axis=0)
-    # s1 = np.concatenate([
-    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
-    #     for e in range(n+10, n+h)
-    # ], axis=0)
     s2 = np.concatenate([
         np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
         for e in range(n+h, T)
     ], axis=0)
     # print(s0.shape, s1.shape, s2.shape)
     return s0, s1, s2
+    # s0 = np.concatenate([
+    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
+    #     for e in range(n, 2*n)
+    # ], axis=0)
+    # s1 = np.concatenate([
+    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
+    #     for e in range(2*n, n+10)
+    # ], axis=0)
+    # s2 = np.concatenate([
+    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
+    #     for e in range(n+10, n+h)
+    # ], axis=0)
+    # s3 = np.concatenate([
+    #     np.concatenate([ztraces[:, i] for i in range(e-n, e)], axis=-1)
+    #     for e in range(n+h, T)
+    # ], axis=0)
+    # # print(s0.shape, s1.shape, s2.shape)
+    # return s0, s1, s2, s3
 
 def plot_compression_scatter(sets, labels, compression='t-SNE', save_path='', colors=None, title=''):
     if colors is None:
@@ -140,10 +150,16 @@ if __name__ == '__main__':
         #     title=f'$\gamma={gmtxt}, n={n_init}$'
         # )
         ztraces = np.load(get_path(f'exp_analysis/endless_gen/data/gm{gm}n{n_init}.npy'))
-        s0, s1, s2 = state_half_partition(ztraces, n_init)
+        # s0, s1, s2 = state_half_partition(ztraces, n_init)
+        # plot_compression_scatter(
+        #     [s0, s1, s2], ['initial', 'former', 'later'], colors=['black', 'red', 'blue'],
+        #     save_path=f'exp_analysis/endless_gen/results/t-SNE/gm{gm}n{n_init}.png',
+        #     title=f'$\gamma={gmtxt}, n={n_init}$'
+        # )
+        s0, s1, s2, s3 = state_half_partition(ztraces, n_init)
         plot_compression_scatter(
-            [s0, s1, s2], ['initial', 'former', 'later'], colors=['black', 'red', 'blue'],
-            save_path=f'exp_analysis/endless_gen/results/t-SNE/gm{gm}n{n_init}.png',
+            [s0, s1, s2, s3], ['initial', 'early', 'former', 'later'], colors=['black', 'green', 'red', 'blue'],
+            save_path=f'exp_analysis/endless_gen/results/t-SNE/gm{gm}n{n_init}-partition10.png',
             title=f'$\gamma={gmtxt}, n={n_init}$'
         )
     pass

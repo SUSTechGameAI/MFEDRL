@@ -25,6 +25,7 @@ if __name__ == '__main__':
     dvs = []
     for n, gm in product((4, 6), ('070', '080', '090', '099')):
         rewards = np.load(get_path(f'exp_analysis/endless_gen/data2/gm{gm}n{n}_rewards.npy'))
+        print(rewards.shape)
         rls1.append(rewards[:, -50:-40].mean())
         rls2.append(rewards[:, -40:-25].mean())
         rls3.append(rewards[:, -25:].mean())
